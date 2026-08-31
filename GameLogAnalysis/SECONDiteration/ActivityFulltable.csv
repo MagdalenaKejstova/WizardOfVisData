@@ -1,0 +1,1672 @@
+Table 1;;;;;;;;;;
+Participant;Level;Activity Name;Score;Max Score;Correct;Errors;Time Spent  ;Returns to Explanation;Time spent in returned explanation;Key comments/Behaviour
+P1;Base Chart;Axes Activity;475;500;10;4;118;No;;Struggled with Y-End and X-Increment values initially.
+;Line Chart;Point Plotting;500;500;10;0;39;No;;Perfect accuracy on the first category (Among Us).
+;Line Chart;Line Drawing;50;50;1;0;15;No;;Smooth connection.
+;Line Chart;Prepare 2nd Category;-25;50;0;1;15;No;;Misjudged if the graph needed adjustment for PubG.
+;Line Chart;2nd Point Plotting;500;500;10;0;27;No;;Continued high precision in plotting.
+;Line Chart;2nd Line Drawing;50;50;1;0;4;No;;Fast completion.
+;Area Chart;Intro ;50;50;1;0;8;No;;Handled the manual fill without issue.
+;Area Chart;Area Comparison;125;200;4;2;51;No;;Multiple attempts needed to identify correct Y-End (100).
+;Stacked Area;1st Stacking;75;150;2;9;97;Yes;19;"Incorrectly clicked 'Yes' for graph readiness; 8 Y-End typos."
+;Stacked Area;1st Stacking;150;150;3;0;13;No;;"Much faster after explanation; correct Y-End (655)."
+;Stacked Area;Point Plotting;425;500;10;3;44;No;;Precision errors at years 2018, 2022, and 2023.
+;Stacked Area;Line Drawing;50;50;1;0;4;No;;Connected Fortnite points correctly.
+;Stacked Area;Stack 3rd (;150;150;3;0;20;No;;Successfully setup Brawl Stars but failed plotting.
+;Stacked Area;2nd Plotting;-150;500;0;6;42;Yes;49;"Stuck on year 2018; 6 consecutive background clicks."
+;Stacked Area;1st Stacking;150;150;3;0;16;No;;Flawless setup for Genshin/Minecraft stack.
+;Stacked Area;Point Plotting ;-300;500;6;12;121;Yes;2;Critical struggle at year 2021 (12 background clicks).
+;Stacked Area;1st Stacking;150;150;3;1;17;No;;One typo on Y-End (638 vs 690), but logic correct.
+;Stacked Area;Point Plotting;375;500;10;5;58;No;;Repeatedly missed 2023 and 2024 hitboxes.
+;Stacked Area;Line Drawing;50;50;1;0;4;No;;Quick connection.
+;Stacked Area;Stack 3rd;150;150;3;0;16;No;;PubG setup correct, but plotting proved too difficult.
+;Stacked Area;2nd Plotting;-75;500;6;23;183;Yes;2;Highest difficulty: 22 misses on year 2018 alone.
+;Stacked Area;1st Stacking;150;150;3;2;29;No;;Minor typos on Y-End (45, 440) before 455.
+;Stacked Area;Point Plotting ;450;500;10;2;47;No;;"Improved precision; only 2 background clicks."
+;Stacked Area;Line Drawing ;50;50;1;0;3;No;;Roblox points connected.
+;Stacked Area;Stack 3rd;150;150;3;1;36;No;;Typos on Y-End (480 vs 493), but logic sound.
+;Stacked Area;2nd Plotting;450;500;10;2;54;No;;Final successful run for Brawl Stars points.
+;Stacked Area;2nd Line;50;50;1;0;2;No;;Fast completion.
+;Misleading;Missing Years;50;50;1;0;10;No;;Immediately spotted the X-axis gap.
+;Misleading;Y-Axis Increment;50;50;1;0;11;No;;Identified non-linear Y-axis scaling.
+;Misleading;Comparison Chart;50;50;1;0;4;No;;Spotted the Y-axis mismatch between charts.
+;Misleading;Reversed Years;50;50;1;0;6;No;;Spotted time flowing backward on X-axis.
+P2;Base Chart;Axes Activity;375;500;10;6;149;No;;Struggled significantly with the Y-start value (30 vs 0).
+;Line Chart;Point Plotting;500;500;10;2;45;No;;Fast plotting, though hit two accidental clicks early on.
+;Line Chart;Line Drawing;50;50;1;0;5;No;;Perfect connection.
+;Line Chart;Prepare 2nd Category;50;50;1;0;10;No;;Correctly identified no adjustment was needed for PubG.
+;Line Chart;2nd Point Plotting;500;500;10;0;30;No;;Flawless plotting for the second category!
+;Line Chart;2nd Line Drawing;-25;50;1;2;59;No;;Missed the start point and had an incomplete connection.
+;Area Chart;Intro ;50;50;1;0;5;No;;Efficient area filling.
+;Area Chart;Area Comparison ;50;150;1;6;56;Yes;1;Abandoned after 6 failed Y-end attempts.
+;Area Chart;Intro ;50;50;1;0;11;No;;Re-filled area after review.
+;Area Chart;Area Comparison ;25;150;1;3;36;Yes;1;Misidentified the axis and comparability after review.
+;Area Chart;Intro ;50;50;1;0;2;No;;Very fast re-fill.
+;Area Chart;Area Comparison ;50;50;1;3;64;No;;Final Y-end found, but failed the level overall.
+;Area Chart;Intro ;50;50;1;0;2;No;;Rapid progression.
+;Area Chart;Area Comparison ;50;50;1;0;2;No;;Nailed the Y-end (200) instantly this time!
+;Stacked Area;1st Stacking;75;150;2;2;25;No;;"Misjudged graph readiness; Y-end typo (75)."
+;Stacked Area;Point Plotting ;375;500;10;5;65;No;;Precision issues at years 2020, 2021, and 2022.
+;Stacked Area;Line Drawing ;50;50;1;0;4;No;;Successful connection of Genshin points.
+;Stacked Area;Stack 3rd;100;150;2;18;51;No;;Logic was there, but Y-end math for PubG proved difficult.
+;Stacked Area;1st Stacking;100;150;2;7;40;Yes;1;Struggle with the 140 Y-end calculation.
+;Stacked Area;1st Stacking;25;150;1;4;21;Yes;1;Continued struggle with Y-end (203).
+;Stacked Area;1st Stacking;100;150;2;1;5;No;;Logic clear, but level was reset.
+;Misleading;Missing Years;0;50;1;7;8;No;;"Many ""almost"" clicks on X-axis before hitting the gap."
+;Misleading;Y-Axis Increment;50;50;1;0;15;No;;Identified the non-linear scale successfully.
+;Misleading;Comparison Chart;50;50;1;0;2;No;;Very fast catch on the Y-axis mismatch.
+;Misleading;Reversed Years;50;50;1;0;2;No;;Instant detection of the reversed time flow.
+;Stacked Area;1st Stacking;25;150;1;2;16;No;;Again, misclicked graph readiness.
+;Stacked Area;1st Stacking;150;150;3;7;23;No;;Perfect logic for Fall Guys/PubG stack.
+;Stacked Area;Point Plotting ;425;500;5;3;91;No;;Interrupted plotting after 2020 misses.
+;Stacked Area;1st Stacking;150;150;3;1;15;No;;Correct Y-end (110) after explanation return.
+;Stacked Area;Point Plotting ;-25;500;4;9;29;No;;The Brick Wall: 9 misses in a row trying to hit 2019, 110.
+P3;Base Chart;Axes Activity;475;500;10;2;124;No;;"Precision was high; only struggled with the X-axis increment."
+;Line Chart;Point Plotting;450;500;10;5;44;No;;Multiple background clicks near years 2021 and 2022.
+;Line Chart;Line Drawing;50;50;1;0;6;No;;Perfect execution.
+;Line Chart;Prepare 2nd Category;50;50;1;0;8;No;;Correctly identified that no adjustment was needed.
+;Line Chart;2nd Point Plotting;500;500;10;0;43;No;;Perfect Run! Every point for PubG was placed accurately.
+;Line Chart;2nd Line Drawing;-100;50;1;5;45;No;;"High difficulty connecting points; several incomplete lines."
+;Area Chart;Intro ;50;50;1;0;5;No;;Quick and correct.
+;Area Chart;Area Comparison;25;50;1;1;14;No;;Miscalculated Y-End (200) before finding 650.
+;Stacked Area;1st Stacking;25;150;1;64;239;Yes;2;"Frustration Point: 50+ clicks on background; math for Y-End (107) was elusive."
+;Stacked Area;1st Stacking;25;150;1;2;55;Yes;2;"Misclicked 'Yes' for readiness; still struggling with Y-End (120)."
+;Misleading;Missing Years ;-25;50;1;3;30;No;;Clicked the Y-axis instead of the gap in the X-axis.
+;Misleading;Y-Axis Incr. ;25;50;1;1;6;No;;One misclick on the X-axis.
+;Misleading;Comparison ;25;50;1;2;7;No;;Several clicks on the wrong parts before identifying Y-axis.
+;Misleading;Reversed Years ;-25;50;1;3;4;No;;Multiple clicks on Title and background.
+;Misleading;Missing Years;50;50;1;0;2;No;;Instant correction! Spotted the gap immediately.
+;Misleading;Y-Axis Increment;50;50;1;0;1;No;;Extremely fast identification of the scale.
+;Misleading;Comparison Chart;25;50;1;1;2;No;;One minor misclick on the X-axis.
+;Misleading;Reversed Years;25;50;1;1;3;No;;Found the flow-of-time error quickly.
+P4;Base Chart;Axes Activity;N/A;500;2;0;25;Yes;;User successfully drew axes but returned to explanation before labeling.
+;Base Chart;Axes Activity;475;500;8;1;225;No;;Initial error on X-start label. Rounded max Y correctly.
+;Line Chart;Point Plotting Activity;500;500;10;1;51;No;;1 misclick on background. All points correctly plotted.
+;Line Chart;Line Drawing Activity;50;50;1;0;12;No;;Perfect execution.
+;Line Chart;Prepare Second Category;50;50;1;0;37;No;;Correctly identified no adjustment needed.
+;Line Chart;Second Point Plotting Activity;500;500;10;1;195;No;;1 misclick on background.
+;Line Chart;Second Line Drawing Activity;-25;50;1;1;103;No;;Created incomplete connection before succeeding. Score reflects penalty.
+;Area Chart;Introduction Activity;50;50;1;0;8;No;;Immediate success.
+;Area Chart;Area Comparison Activity;50;50;1;0;29;No;;Correctly identified Y-End.
+;Stacked Area;First Stacking Activity (Roblox/Fall Guys);75;150;2;7;108;No;;"Failed ""Graph Ready"" check. 6 failed attempts at Y-End entry (not penalized)."
+;Stacked Area;Point Plotting Activity;450;500;10;2;86;No;;2 background misclicks.
+;Stacked Area;Line Drawing Activity;50;50;1;0;5;No;;Perfect execution.
+;Stacked Area;Stack Third Category Activity;100;150;2;3;72;No;;Correctly identified graph ready. 3 failed Y-End entries.
+;Stacked Area;Second Point Plotting Activity;475;500;10;1;94;No;;1 background misclick.
+;Stacked Area;Second Line Drawing Activity;-175;50;0;7;17;Yes;1;Struggled with connections (7 failures) then returned to explanation.
+;Stacked Area;First Stacking Activity (PubG/Valorant);25;150;1;2;25;No;;"Failed ""Graph Ready"". Failed Y-End entry once."
+;Stacked Area;Point Plotting Activity;-75;500;0;3;10;Yes;2;3 background misclicks then returned to explanation.
+;Stacked Area;First Stacking Activity (Fortnite/Brawl Stars);75;150;2;1;22;No;;"Failed ""Graph Ready""."
+;Stacked Area;Point Plotting Activity;450;500;10;2;60;No;;2 specific point misclicks (2016 vs 2017).
+;Stacked Area;Line Drawing Activity;50;50;1;0;19;No;;Perfect execution.
+;Stacked Area;Stack Third Category Activity;25;150;2;3;132;No;;"Failed ""Graph Ready"". Clicked X-Axis incorrectly twice."
+;Stacked Area;Second Point Plotting Activity;500;500;10;0;91;No;;Perfect execution.
+;Stacked Area;Second Line Drawing Activity;-25;50;1;3;10;No;;3 Incomplete connections before success.
+;Misleading;Years Missing Chart ;0;50;0;0;0;Yes;2;Immediate return to explanation.
+;Misleading;Years Missing Chart ;-50;50;0;2;89;Yes;2;"Clicked ""FullGraph"" twice incorrectly."
+;Misleading;Years Missing Chart ;50;50;1;0;31;No;;Correctly identified missing years.
+;Misleading;Y Axis Increment Chart;50;50;1;0;15;No;;Correctly identified non-incremental axis.
+;Misleading;Comparison Chart;50;50;1;0;19;No;;Correctly identified Y-axis issue.
+;Misleading;Reversed Years Chart;50;50;1;0;7;No;;Correctly identified X-axis issue.
+P5;Base Chart;Axes Activity;475;500;10;1;103;No;;1 error marking Y-axis label. Otherwise correct.
+;Line Chart;Point Plotting Activity;500;500;10;0;30;No;;Perfect execution.
+;Line Chart;Line Drawing Activity;50;50;1;0;10;No;;Perfect execution.
+;Line Chart;Prepare Second Category;200;150;4;1;55;No;;Correctly identified adjustment needed. 1 error on Increment value.
+;Line Chart;Second Point Plotting Activity;500;500;10;0;54;No;;Perfect execution.
+;Line Chart;Second Line Drawing Activity;50;50;1;0;10;No;;Correctly connected.
+;Area Chart;Introduction Activity;50;50;1;0;9;No;;Immediate success.
+;Area Chart;Area Comparison Activity;200;200;4;0;53;No;;Perfect execution.
+;Stacked Area;First Stacking Activity (Valorant/Fall Guys);150;150;2;0;45;No;;Perfect execution (Graph Ready, Part Click, Y-End).
+;Stacked Area;Point Plotting Activity;500;500;10;0;32;No;;Perfect execution.
+;Stacked Area;Line Drawing Activity;50;50;1;0;7;No;;Perfect execution.
+;Stacked Area;Stack Third Category Activity (Fortnite);150;150;2;1;36;No;;1 incorrect Y-End value (700 vs 735). No penalty for value error.
+;Stacked Area;Second Point Plotting Activity;500;500;10;0;147;No;;Perfect execution.
+;Stacked Area;Second Line Drawing Activity;50;50;1;0;10;No;;Perfect execution.
+;Misleading;Years Missing Chart Activity;50;50;1;0;94;No;;Correctly identified missing years.
+;Misleading;Y Axis Increment Chart Activity;50;50;1;0;25;No;;Correctly identified non-incremental axis.
+;Misleading;Comparison Chart Activity;50;50;1;0;7;No;;Correctly identified Y-axis issue.
+;Misleading;Reversed Years Chart Activity;50;50;1;0;4;No;;Correctly identified X-axis issue.
+P6;Base Chart;Axes Activity;425;500;12;5;124;No;;Conceptual error: drew Y-axis before X. Struggled with Y-start labels (entered 30, 400 instead of 0).
+;Line Chart;Point Plotting (Category 1);450;500;10;4;56;No;;Initial precision errors (clicking adjacent points/background). Rhythm improved after first 3 errors.
+;Line Chart;Prepare & Plot Category 2;700;650;15;0;66;No;;High proficiency. Zero errors on second pass. Log indicates possible bonus points or data anomaly (Score 200/150 for prep).
+;Line Chart;Line Drawing (Cat 2);25;50;1;1;30;No;;"Struggle with connection mechanic; created incomplete connection before succeeding."
+;Area Chart;Area Comparison;50;100;2;2;47;No;;Difficulty determining Y-End values (guessed 80, 85 before 100).
+;Stacked Area;Stacking & Plotting ;0;550;14;~10;215;Yes;8;High Frustration. User exited to explanation. Significant errors calculating extended Y-Axis values.
+;Stacked Area;Stacking & Plotting ;0;550;4;9;88;Yes;1;Rage clicking detected. 7 consecutive background clicks recorded in rapid succession. Exited to explanation again.
+;Stacked Area;Line Drawing ;-;50;13;12;317;Yes;1;"Persistent mechanic failure. 7 consecutive ""Incomplete connection"" errors. User returned to explanation for the 3rd time."
+;Stacked Area;Full Level Run ;1375;1400;32;3;99;No;;Mastery achieved. After 3 reviews of explanation, user completed the complex sequence with high speed and minimal precision errors.
+;Misleading;Missing Years Identification;0;50;0;3;36;Yes;2;Could not identify the misleading element. Clicked random graph parts (Start, Y-Axis) before seeking explanation.
+;Misleading;Final Identification Sprint;200;200;4;1;57;No;;Post-explanation clarity. Solved last 3 puzzles in <5 seconds each (rapid recognition).
+P7;Base Chart;Axes Construction & Labeling;475;500;8;2;125;No;;"Minor confusion on Y-End value (entered 30 vs 80); otherwise steady progress."
+;Line Chart;Full Level Run;1050;1150;27;3;148;No;;High competence. Errors were mechanical (background clicks) rather than conceptual.
+;Area Chart;Area Comparison ;350;800;8;15;279;No;;Stuck Loop. User restarted level 4 times. Repeatedly failed to calculate Y-End values (guessed 75, 40, 45, 50).
+;Area Chart;Area Comparison ;250;250;4;0;24;Yes;13;Consulted explanation 3 times (Explanation + Exercise review). Solved immediately upon return.
+;Stacked Area;Line Drawing ;0;50;7;54;34;No;;"Severe Rage Clicking. User triggered ""Incomplete connection"" error 50+ times in 30 seconds. Indicates UI/Mechanic failure."
+;Stacked Area;Stacking Setup (Attempts 2-5);0;150;3;4;129;Yes;17;High frustration. User entered/exited explanation 4 times, failing once per attempt on simple setup tasks.
+;Stacked Area;Full Level Run ;1400;1400;26;1;217;No;;Flawless run after overcoming initial mechanic frustration.
+;Misleading;Missing Years ;-200;50;0;50;67;Yes;4;"Hitbox Issue Detected. User clicked ""Almost correct graph part"" 45 times consecutively. Score plummeted due to repeated clicking."
+;Misleading;Full Level Run ;200;200;4;0;99;No;;Smooth completion after viewing explanation.
+P8;Base Chart;Axes Activity;475;500;10;2;238;;;Error on X-Start (0 vs 2015) and Increment (9 vs 1).
+;Line Chart;Point Plotting Activity;500;500;13;3;49;;;3 misclicks (background or wrong point).
+;Line Chart;Line Drawing Activity;50;50;1;0;7;;;Perfect execution.
+;Line Chart;Prepare Second Category;200;150;3;1;67;;;Bonus points? Error on Y-Increment (5 vs 10).
+;Line Chart;Second Point Plotting;500;500;10;0;64;;;Flawless plotting.
+;Line Chart;Second Line Drawing;-25;50;1;2;31;;;Failed connection & background click before success.
+;Area Chart;Introduction Activity;50;50;1;0;8;;;Fast completion.
+;Area Chart;Area Comparison;50;50;1;0;13;;;Y-Ends matched (RNG), instant solve.
+;Stacked Area;First Stacking Activity;100;150;2;3;136;;;Math Struggle: Failed calculation 3x (200, 270, 240 vs 255).
+;Stacked Area;Point Plotting Activity;150;500;11;6;220;Yes;8;Rage Click: 5 fails on point (2019, 212). Hitbox issue likely.
+;Stacked Area;Line Drawing Activity;50;50;1;0;23;;;Good connection.
+;Stacked Area;Stack Third Category;125;150;1;1;36;;;"Incorrectly clicked ""Yes"" (graph ready) initially."
+;Stacked Area;Second Point Plotting;225;500;11;1;71;;;Minor background click error.
+;Stacked Area;Second Line Drawing;625;700;1;0;4;;;Fast completion.
+;Misleading;Missing Years Chart;50;50;1;0;56;;;Correct identification.
+;Misleading;Y Axis Increment Chart;50;50;1;0;8;;;Correct identification.
+;Misleading;Comparison Chart;50;50;1;0;2;;;Instant identification.
+;Misleading;Reversed Years Chart;25;50;1;1;45;;;Clicked full graph instead of specific X-axis area.
+P9;Base Chart;Axes Activity;450;500;10;2;102;;;"Failed to ""draw"" the axis gesture twice initially."
+;Line Chart (Revisit);Point Plotting Activity;-200;500;0;77;71;Yes;2;TOTAL MELTDOWN / RAGE QUIT. User spammed click on the background ~77 times without hitting the target (2015, 0), then exited.
+;Line Chart;Point Plotting Activity;500;500;10;0;54;;;Flawless execution.
+;Line Chart;Line Drawing Activity;50;50;1;0;8;;;Perfect execution.
+;Line Chart;Prepare Second Category;50;50;1;0;15;;;Correctly identified no adjustment needed.
+;Line Chart;Second Point Plotting;500;500;10;0;21;;;Flawless execution.
+;Line Chart;Second Line Drawing;0;50;1;0;11;;;Score log shows 0, but action was correct.
+;Area Chart;Introduction Activity;50;50;1;0;8;;;Fast completion.
+;Area Chart;Area Comparison;175;200;3;0;87;;;Y-Ends did not match. Correctly manually adjusted Y-End.
+;Stacked (Revisit);First Stacking Activity;0;150;1;0;2;Yes;1;User entered and immediately exited to explanation.
+;Stacked Area;First Stacking Activity;N/A;N/A;2;0;16;;;Correctly set up graph.
+;Stacked Area;Point Plotting Activity;N/A;N/A;11;2;118;;;2 minor background miss-clicks.
+;Stacked Area;Line Drawing Activity;675;700;1;0;6;;;Good connection.
+;Stacked Area;Stack Third Category;N/A;N/A;1;3;78;;;"Math Error: Entered 315, then 310 (Expected 313). Also clicked ""Yes"" incorrectly."
+;Stacked Area;Second Point Plotting;N/A;N/A;10;0;91;;;Flawless plotting.
+;Stacked Area;Second Line Drawing;600;700;1;0;11;;;Completed successfully.
+;Misleading;Missing Years Chart;50;50;1;0;42;;;Correct identification.
+;Misleading;Y Axis Increment Chart;50;50;1;0;38;;;Correct identification.
+;Misleading;Comparison Chart;50;50;1;0;8;;;Instant identification.
+;Misleading;Reversed Years Chart;50;50;1;0;8;;;Instant identification.
+;Base Chart (Revisit);Axes Activity;450;500;10;3;57;;;Logic Regression: Failed Y-Increment twice (entered 10, then 5, expected 50).
+P10;Base Chart;Axes Activity;475;500;10;2;160;;;Error on Y-Label marking and Y-Increment (entered 10, expected 50).
+;Line Chart;Point Plotting;500;500;11;1;50;;;"Mostly accurate; one wrong point click (2015 vs 2016)."
+;Line Chart;Line Drawing;50;50;1;0;9;;;Perfect execution.
+;Line Chart;Prepare Category;50;50;1;0;12;;;Correctly identified no adjustment needed.
+;Line Chart;Second Point Plotting;500;500;10;0;25;;;Flawless plotting.
+;Line Chart;Second Line Drawing;0;50;1;0;9;;;Log Anomaly: Action correct, but score recorded as 0.
+;Area Chart;Introduction;50;50;1;0;13;;;Fast completion.
+;Area Chart;Area Comparison;50;50;1;0;17;;;Y-Ends matched automatically (RNG), no adjustment needed.
+;Stacked Area;First Stacking;N/A;N/A;2;0;26;;;Correct setup.
+;Stacked Area;Point Plotting;N/A;N/A;11;5;77;;;Accuracy Issues: 5 background miss-clicks (Years 2020, 2021, 2023).
+;Stacked Area;Line Drawing;650;700;1;5;7;;;"Score deducted. 5 ""Incomplete connection"" attempts logged after completion."
+;Stacked Area;Stack Third Category;N/A;N/A;2;0;21;;;Correct setup.
+;Stacked Area;Second Point Plotting;N/A;N/A;10;3;53;;;Accuracy Issues: 3 background miss-clicks (Years 2019, 2021).
+;Stacked Area;Second Line Drawing;675;700;1;0;5;;;Fast completion.
+;Misleading;Missing Years ;0;50;0;1;19;Yes;40;"Failed: Clicked ""Full Graph"" incorrectly. Sent to explanation."
+;Misleading;Missing Years ;50;50;1;0;10;;;Correct identification on second try.
+;Misleading;Y Axis Increment;25;50;1;1;97;;;
+;Misleading;Comparison Chart;50;50;1;0;1;;;Instant identification.
+;Misleading;Reversed Years;50;50;1;0;1;;;Instant identification.
+P11;Base Chart;Axes Activity;450;500;7;3;141;No;;Math Struggle: Failed 3 times to determine the correct Y-axis increment (tried 1, 10, 10) before finding 100.
+;Line Chart;Point Plotting;500;500;10;0;28;No;;Perfect Execution: Flawless point placement.
+;Line Chart;Line Drawing;50;50;1;0;8;No;;Connected points correctly.
+;Line Chart;Prepare Second Category;50;50;1;0;12;No;;Correctly identified that the graph did not need adjustment.
+;Line Chart;Second Point Plotting;500;500;10;0;39;No;;Consistency: Maintained perfect plotting accuracy on the second dataset.
+;Line Chart;Second Line Drawing;-25;50;1;1;26;No;;Motor Control: Initial incomplete connection before correcting it.
+;Area Chart;Introduction Activity;50;50;1;0;14;No;;Successfully filled the area.
+;Area Chart;Area Comparison;-;-;1;2;44;Yes;1;"Concept Failure: Failed to calculate Y-End (inputs: 30, 600; expected: 650)."
+;Area Chart;Introduction Activity;50;50;1;0;4;No;;Quick replay success.
+;Area Chart;Area Comparison;-;-;1;1;16;Yes;15;"Logic Error: Y-End was correct, but answered ""Yes"" to comparability when axes were different."
+;Area Chart;Introduction Activity;50;50;1;0;18;No;;Quick replay success.
+;Area Chart;Area Comparison;50;50;1;0;10;No;;Mastery: Finally correctly identified comparability issues.
+;Stacked Area;First Stacking Activity;-;-;0;4;16;Yes;19;"Confusion: Clicked ""Yes"" incorrectly and struggled to identify the correct graph parts (XAxis, GraphStart)."
+;Stacked Area;First Stacking Activity;-;-;2;1;24;No;;Math Error: Correctly identified the graph part but failed the Y-End calculation (Input: 176, Expected: 403).
+;Stacked Area;Point Plotting;-;-;1;3;47;No;;Precision: 3 missed clicks on the background before hitting the correct point (2020, 176).
+;Stacked Area;Line Drawing;625;700;1;1;9;No;;Initial unordered connection.
+;Stacked Area;Stack Third Category;-;-;2;0;14;No;;Correctly identified the need to stack a third category.
+;Stacked Area;Second Point Plotting;-;-;1;1;59;No;;Improvement: Better plotting accuracy (only 1 miss).
+;Stacked Area;Second Line Drawing;700;700;1;0;8;No;;Success: Completed the level with a high score despite earlier struggles.
+;Misleading;Years Missing Activity;-;-;0;1;23;Yes;7;Identification Failure: Clicked the full graph instead of the specific missing axis data.
+;Misleading;Years Missing Activity;-;-;0;0;<1;Yes;1;Instant failure (likely accidental click or system reset).
+;Misleading;Years Missing Activity;0;50;1;4;28;Yes;1;"Persistent Struggle: Clicked Y-Axis parts instead of X-Axis. ""Almost correct"" warnings triggered twice."
+;Misleading;Years Missing Activity;50;50;1;0;20;No;;Finally identified the missing years on the X-axis.
+;Misleading;Y Axis Increment Activity;-;-;0;4;38;No;;Confusion: Clicked Y-Axis End, Graph Start, and X-Axis instead of the non-linear increments.
+;Misleading;Y Axis Increment Activity;0;50;1;2;80;Yes;1;"Failed to identify the misleading increment; clicked Full Graph."
+;Misleading;Years Missing Activity;50;50;1;0;4;No;;Quick replay success.
+;Misleading;Y Axis Increment Activity;50;50;1;1;4;Yes;2;Identified the increment error, but the game logic forced a return to explanation (likely due to previous failure count).
+;Misleading;Years Missing Activity;50;50;1;0;1;No;;Quick replay success.
+;Misleading;Y Axis Increment Activity;50;50;1;0;2;No;;Quick replay success.
+;Misleading;Comparison Activity;50;50;1;1;2;Yes;1;Clicked Full Graph once before clicking the correct Y-Axis.
+;Misleading;Years Missing Activity;50;50;1;0;1;No;;Quick replay success.
+;Misleading;Y Axis Increment Activity;50;50;1;0;1;No;;Quick replay success.
+;Misleading;Comparison Activity;50;50;1;0;1;No;;Quick replay success.
+;Misleading;Reversed Years Activity;50;50;1;0;12;No;;Completion: Successfully identified the reversed X-axis.
+;Base Chart;Axes Activity;-;-;4;1;17;Yes;2;Regression: Failed the X-Start label (Input: 0, Expected: 2015).
+;Base Chart;Axes Activity;500;500;8;0;34;No;;Mastery: Perfect execution on the second replay attempt.
+;Line Chart;Point Plotting ;500;500;10;0;20;No;;fast and accurate.
+;Line Chart;Line Drawing ;50;50;1;0;3;No;;fast and accurate.
+;Line Chart;Prepare Second Category;200;150;3;0;43;No;;Calculation Success: Correctly calculated new Y-End (500) and Increment (100).
+;Line Chart;Second Point Plotting;500;500;10;1;27;No;;1 background click error.
+;Line Chart;Second Line Drawing;0;50;1;0;14;Yes;1;Completed successfully (score display logic quirk in log showed 0 then completion).
+;Stacked Area;First Stacking ;-;-;2;0;7;No;;Setup correct.
+;Stacked Area;Point Plotting ;-;-;10;1;41;No;;Math Success: Correctly calculated Y-End (485). 1 plotting error.
+;Stacked Area;Line Drawing ;700;700;1;0;3;No;;Perfect connection.
+;Stacked Area;Stack Third Category;-;-;2;1;36;Yes;1;Recurring Math Error: Failed Y-End calculation (Input: 525, Expected: 515). The user is likely guessing or mis-adding the peaks.
+;Stacked Area;First Stacking ;-;-;2;0;5;No;;Setup correct.
+;Stacked Area;Point Plotting ;-;-;10;0;44;No;;Points correct.
+;Stacked Area;Line Drawing ;700;700;1;0;5;No;;Lines correct.
+;Stacked Area;Stack Third Category;-;-;2;1;37;Yes;5;Recurring Math Error: Failed Y-End calculation again (Input: 530, Expected: 540).
+;Stacked Area;First Stacking ;-;-;2;0;59;No;;Session ended/abandoned at explanation scene.
+P12;Base Chart;Axes Activity;-;-;6;2;84;Yes;36;"Concept Error: Entered ""2021"" and ""2016"" for Axis Increment instead of a numerical step value."
+;Base Chart;Axes Activity;500;500;10;0;59;No;;Mastery: Perfect execution on the second attempt.
+;Line Chart;Point Plotting;500;500;11;0;30;No;;Precision: Flawless point placement.
+;Line Chart;Line Drawing;25;50;1;1;18;No;;Motor Control: Missed a connection on the first attempt.
+;Line Chart;Prepare Second Category;25;150;3;5;103;No;;Confusion: Incorrectly believed graph didn't need adjustment. Clicked random parts (FullGraph) before finding Y-Axis.
+;Line Chart;Second Point Plotting;500;500;10;0;19;No;;Consistency: Maintained perfect plotting accuracy.
+;Line Chart;Second Line Drawing;0;50;1;0;7;No;;Completed connection successfully (Score display quirk in log).
+;Area Chart;Introduction Activity;50;50;1;0;8;No;;Successfully filled the area.
+;Area Chart;Area Comparison;50;50;1;0;9;No;;Efficiency: Quick and correct input.
+;Stacked Area;First Stacking Activity;-;-;1;6;77;No;;"Math Struggle: Failed Y-End calculation 3 times (Inputs: 80, 100, 110; Expected: 113/120)."
+;Stacked Area;Point Plotting;375;500;11;5;64;No;;Precision Issues: 5 background clicks while trying to plot points.
+;Stacked Area;Line Drawing;50;50;1;0;4;No;;Correctly connected.
+;Stacked Area;Stack Third Category;-;-;2;3;41;No;;"Math Struggle: Failed Y-End calculation 3 times (Inputs: 300, 300, 315; Expected: 313/320)."
+;Stacked Area;Second Point Plotting;-;-;11;5;41;No;;Precision Issues: Persistent difficulty with clicking small targets (5 misses).
+;Stacked Area;Second Line Drawing;600;700;1;0;4;No;;Correctly connected.
+;Misleading;Years Missing Activity;-;-;0;7;74;Yes;4;"Frustration: Spammed ""FullGraph"" clicks (7 times) without identifying the specific axis issue."
+;Misleading;Years Missing Activity;-;-;0;2;27;Yes;2;Persistent Struggle: Continued to click wrong parts (YAxisEnd, FullGraph).
+;Misleading;Years Missing Activity;50;50;1;0;18;No;;Success: Finally identified the missing years on the X-axis.
+;Misleading;Y Axis Increment Activity;50;50;1;0;12;No;;Smooth execution.
+;Misleading;Comparison Activity;50;50;1;0;4;No;;Fast and accurate.
+;Misleading;Reversed Years Activity;25;50;1;1;9;No;;One initial error (FullGraph click) before success.
+P13;Base Chart;Axes Activity;-;-;4;5;232;Yes;3;"Concept Confusion: Severe misunderstanding of ""Increments."" Entered 2015, 2820, 50 instead of step size."
+;Base Chart;Axes Activity;450;500;7;5;238;No;;Trial & Error: Struggled to find the right Y-Increment (tried 1, 9, 100, 5) before hitting 10.
+;Base Chart;Axes Activity;450;500;7;3;77;No;;Rounding Issue: Difficulty calculating Y-End. Tried 100 & 65 before finding the max (80).
+;Line Chart;Point Plotting;500;500;11;0;32;No;;Mastery: Flawless execution immediately after the Base Chart struggles.
+;Line Chart;Line Drawing;50;50;1;0;6;No;;Perfect connection.
+;Line Chart;Prepare Second Category;50;50;1;0;17;No;;Correctly identified that the graph needed no adjustment.
+;Line Chart;Second Point Plotting;500;500;10;0;21;No;;Consistency: High speed and accuracy.
+;Area Chart;Area Comparison;25;50;1;1;38;No;;Initial math error on Y-End (entered 40), then corrected to 100.
+;Stacked Area;Point Plotting 1;650;700;10;4;144;No;;"Precision: Math was correct, but user struggled with ""background clicks"" (missed click targets)."
+;Stacked Area;Point Plotting 2;700;700;10;0;31;No;;"Recovery: Adjusted clicking aim; perfect score."
+;Misleading;Years Missing;50;50;1;0;23;No;;Visual Acuity: Immediately spotted the missing data.
+;Misleading;Y Axis Increment;50;50;1;0;15;No;;Correctly identified the non-linear axis.
+;Misleading;Comparison;50;50;1;0;7;No;;Immediate identification.
+;Stacked Area;First Stacking ;-;-;0;1;9;No;;"Impatience: Clicked ""Yes"" (graph ready) when it wasn't."
+P14;Base Chart;Axes Activity;450;500;8;2;109;No;;Concept Error: Started X-axis at 0 instead of 2015.
+;Line Chart;Point Plotting;500;500;11;0;44;No;;Precision: Flawless execution.
+;Line Chart;Line Drawing;50;50;1;0;7;No;;Smooth execution.
+;Line Chart;Prepare Second Category;150;150;3;3;77;No;;Trial & Error: Guessed increments (10, 20, 5) before finding 50.
+;Line Chart;Second Point Plotting;500;500;11;0;33;No;;Consistency: High accuracy maintained.
+;Line Chart;Second Line Drawing;0;50;1;0;7;No;;Correctly connected (Score display quirk in log).
+;Area Chart;Introduction Activity;50;50;1;0;5;No;;Instant understanding.
+;Area Chart;Area Comparison;0;50;1;2;34;No;;Visual vs. Data: Guessed 85 twice (likely judging by eye) instead of entering the scaled value 200.
+;Stacked Area;First Stacking Activity;-;-;1;1;35;No;;Math Error: Entered 800 instead of the summed total 830.
+;Stacked Area;Point Plotting;700;700;10;0;71;No;;Recovery: Plotted the calculated points perfectly despite the initial setup error.
+;Stacked Area;Stack Third Category;-;-;2;2;55;No;;Math Error: Severe calculation struggle. Entered 100 and 1000 instead of 1210.
+;Stacked Area;Second Point Plotting;675;700;10;0;130;No;;Slow & Steady: Took over 2 minutes, but placed every point correctly.
+;Stacked Area;Second Line Drawing;675;700;1;0;3;No;;Fast execution.
+;Misleading;Years Missing Activity;25;50;1;1;36;No;;Missed the issue once (clicked FullGraph) then found the X-axis gap.
+;Misleading;Y Axis Increment;50;50;1;0;15;No;;Correctly identified.
+;Misleading;Comparison Activity;50;50;1;0;9;No;;Correctly identified.
+;Misleading;Reversed Years Activity;50;50;1;0;37;No;;Correctly identified.
+P15;Base Chart;Axes Activity;425;500;10;6;153;No;;Confused Increment w/ Year (2016). Struggled to find correct Y-End (650).
+;Line Chart;Point Plotting;500;500;10;1;46;No;;High precision, only 1 click error.
+;Line Chart;Line Drawing;50;50;1;0;6;No;;Smooth execution.
+;Line Chart;Prepare Second Category;50;50;1;0;14;No;;Correctly identified no adjustment needed.
+;Line Chart;Second Point Plotting;500;500;10;0;23;No;;Flawless execution.
+;Line Chart;Second Line Drawing;0;50;1;0;4;No;;Connected correctly (Score log display quirk).
+;Area Chart;Introduction Activity;50;50;1;0;11;No;;Instant understanding.
+;Area Chart;Area Comparison;25;50;1;1;11;No;;Visual Guessing: Entered 65 instead of scaled 650.
+;Stacked Area;First Stacking ;150;150;2;0;23;No;;Setup correct.
+;Stacked Area;Point Plotting ;50;500;5;6;52;Yes;2;Stuck: 6 consecutive errors on year 2019. Quit to explanation.
+;Stacked Area;First Stacking ;125;150;2;2;17;No;;"Clicked wrong graph part; entered wrong Y-End (720)."
+;Stacked Area;Point Plotting ;0;500;5;8;53;Yes;1;Stuck: 7 consecutive errors on year 2019 again. Quit to explanation.
+;Stacked Area;First Stacking ;150;150;2;0;14;No;;Setup correct.
+;Stacked Area;Point Plotting ;-100;500;7;16;83;Yes;1;Severe Friction: 12 errors on year 2021. Quit to explanation.
+;Stacked Area;First Stacking ;25;150;1;1;7;Yes;1;"Incorrect start; immediate return to explanation."
+;Stacked Area;First Stacking ;150;150;2;0;12;No;;Setup correct.
+;Stacked Area;Point Plotting ;300;500;11;8;60;No;;Breakthrough: Completed successfully despite 8 click errors.
+;Stacked Area;Line Drawing;575;50;1;4;8;No;;Struggled to drag/connect line initially (4 incomplete actions).
+;Stacked Area;Stack Third Category;150;150;2;0;16;No;;Setup correct.
+;Stacked Area;Second Point Plotting;475;500;11;1;48;No;;High accuracy on complex stacking.
+;Stacked Area;Second Line Drawing;700;50;1;0;4;No;;Perfect connection.
+;Misleading;Years Missing Activity;50;50;1;0;21;No;;Correctly identified.
+;Misleading;Y Axis Increment Activity;50;50;1;0;6;No;;Correctly identified.
+;Misleading;Comparison Activity;50;50;1;0;7;No;;Correctly identified.
+;Misleading;Reversed Years Activity;50;50;1;0;6;No;;Correctly identified.
+P16;Base Chart;Axes Activity;475;500;9;1;86;No;;Minor error on X-start label (0 vs 2015).
+;Line Chart;Point Plotting;500;500;10;0;26;No;;Perfect execution.
+;Line Chart;Line Drawing;50;50;1;0;10;No;;Smooth execution.
+;Line Chart;Prepare Second Category;50;50;1;0;23;No;;Correctly identified no adjustment needed.
+;Line Chart;Second Point Plotting;500;500;10;0;16;No;;Fast and flawless.
+;Line Chart;Second Line Drawing;50;50;1;0;4;No;;Perfect connection (Log display error corrected).
+;Area Chart;Introduction Activity;50;50;1;0;10;No;;Instant understanding.
+;Area Chart;Area Comparison;50;50;1;0;13;No;;Correctly calculated scale (90) immediately.
+;Stacked Area;First Stacking;150;150;2;2;50;No;;Setup correct. Two Y-End input errors (ignored for scoring).
+;Stacked Area;Point Plotting;450;500;10;2;102;No;;"Good accuracy; slight friction on year 2019 (2 background clicks)."
+;Stacked Area;Line Drawing;50;50;1;0;8;No;;Smooth execution.
+;Stacked Area;Stack Third Category;150;150;2;0;15;No;;Setup correct.
+;Stacked Area;Second Point Plotting;425;500;10;3;109;No;;Friction: Struggled with years 2019, 2021, and 2023 (background clicks).
+;Stacked Area;Second Line Drawing;50;50;1;0;7;No;;Perfect connection.
+;Misleading;Years Missing Activity;50;50;1;0;26;No;;Correctly identified.
+;Misleading;Y Axis Increment Activity;50;50;1;0;13;No;;Correctly identified.
+;Misleading;Comparison Activity;50;50;1;0;3;No;;Correctly identified.
+;Misleading;Reversed Years Activity;50;50;1;0;6;No;;Correctly identified.
+;Area Chart ;Introduction Activity;50;50;1;0;5;No;;Replay for practice.
+;Area Chart ;Area Comparison;0;50;0;1;4;Yes;1;Quit: Incorrect Y-End (100) then immediately returned to explanation.
+;Area Chart ;Introduction Activity;50;50;1;0;4;No;;Quick pass.
+;Area Chart ;Area Comparison;50;50;1;0;17;No;;Success on second retry (400).
+;Stacked Area ;First Stacking;150;150;2;1;19;No;;One Y-End input error (ignored for scoring).
+;Stacked Area ;Point Plotting;500;500;10;0;21;No;;Flawless replay.
+;Stacked Area ;Line Drawing;-100;50;1;6;10;No;;"Erratic: Connected correctly, then triggered 6 ""Incomplete connection"" errors immediately after."
+;Stacked Area ;Stack Third Category;0;150;0;0;5;Yes;1;Abandoned: Started activity but returned to explanation immediately.
+P17;Base Chart;Axes Activity;500;500;9;0;89;No;;Flawless execution.
+;Line Chart;Point Plotting;500;500;10;0;34;No;;Perfect accuracy.
+;Line Chart;Line Drawing;50;50;1;0;8;No;;Smooth execution.
+;Line Chart;Prepare Second Category;200;150;3;1;47;No;;Bonus points likely applied. 1 error on Increment input.
+;Line Chart;Second Point Plotting;500;500;10;0;23;No;;Fast and accurate.
+;Line Chart;Second Line Drawing;50;50;1;0;13;No;;Smooth execution.
+;Area Chart;Introduction Activity;50;50;1;0;8;No;;Instant understanding.
+;Area Chart;Area Comparison;0;50;0;3;61;Yes;2;Failed: Struggled significantly with Y End calculation.
+;Area Chart ;Introduction Activity;50;50;1;0;11;No;;Quick pass.
+;Area Chart ;Area Comparison;50;200;4;2;89;No;;Struggle: Multiple incorrect Y End guesses before finding 650.
+;Area Chart ;Introduction Activity;50;50;1;0;5;No;;Quick pass.
+;Area Chart ;Area Comparison;25;50;1;1;25;Yes;6;Initial input error (75 vs 80).
+;Area Chart ;Introduction Activity;50;50;1;0;2;No;;Instant pass.
+;Area Chart ;Area Comparison;200;200;4;0;18;No;;Mastered: Finally executed perfectly.
+;Stacked Area;First Stacking ;0;150;1;2;14;No;;Level reset. Incorrect interaction with graph parts.
+;Stacked Area;First Stacking ;150;150;3;2;28;No;;Setup correct. Multiple Y End typos (ignored for score).
+;Stacked Area;Point Plotting;425;500;10;3;54;No;;Friction: 3 misses (background clicks) while plotting.
+;Stacked Area;Line Drawing;50;50;1;0;8;No;;Smooth execution.
+;Stacked Area;Stack Third Category;150;150;3;0;26;No;;Setup correct.
+;Stacked Area;Second Point Plotting;475;500;10;1;24;No;;Good accuracy, only 1 miss.
+;Stacked Area;Second Line Drawing;50;50;1;0;5;No;;Smooth execution.
+;Misleading;Years Missing;50;50;1;0;15;Yes;1;Returned to explanation twice before starting.
+;Misleading;Y Axis Increment;50;50;1;0;12;No;;Correctly identified.
+;Misleading;Comparison Activity;50;50;1;0;5;No;;Correctly identified.
+;Misleading;Reversed Years;50;50;1;0;5;No;;Correctly identified.
+;Stacked Area ;First Stacking;50;150;1;0;6;Yes;2;Abandoned: Started activity then quit to explanation.
+P18;Base Chart;Axes Activity;0;500;1;0;19;Yes;22;"Tutorial step; animation triggered successfully."
+;Line Chart;Point Plotting;-50;500;1;10;55;Yes;2;Abandoned: High error rate (clicking background 7 times) led to early exit.
+;Area Chart;Introduction ;50;50;1;0;9;No;;Seamless execution.
+;Area Chart;Area Comparison ;-200;50;0;10;175;No;;Guessing: Entered random values (123456, 999, 0) instead of calculating.
+;Area Chart;Introduction ;50;50;1;0;5;No;;"Replay; perfect execution."
+;Area Chart;Area Comparison ;-125;200;2;7;162;No;;"Failed comparability question; continued guessing values (80, 0)."
+;Area Chart;Introduction ;50;50;1;0;4;No;;"Replay; perfect execution."
+;Area Chart;Area Comparison ;0;200;0;5;13;Yes;2;Quick exit after 5 consecutive input errors (5, 50, 10).
+;Area Chart;Introduction ;50;50;1;0;2;No;;"Replay; perfect execution."
+;Area Chart;Area Comparison ;0;200;0;4;30;Yes;2;Aborted again after random inputs (110, 120).
+;Stacked Area;First Stacking ;0;150;1;2;61;Yes;;"Confusion: Incorrectly clicked ""Yes"" for graph readiness and ""FullGraph"" for adjustment."
+;Stacked Area;First Stacking ;-800;150;1;34;759;No;;"Rage/Panic: Spent 12 minutes clicking ""FullGraph"" 30+ times."
+;Stacked Area;Point Plotting ;475;500;10;1;225;No;;"Recovered accuracy; only one misclick."
+;Stacked Area;Line Drawing ;25;50;1;1;8;No;;One incomplete connection before success.
+;Stacked Area;Stack Third Category ;-50;150;1;4;49;No;;Struggled to identify the correct graph part to adjust.
+;Stacked Area;Second Point Plotting ;450;500;10;2;85;No;;"Solid performance; minor precision errors."
+;Stacked Area;Second Line Drawing ;50;50;1;0;6;No;;Perfect execution.
+;Stacked Area;First Stacking ;150;150;3;0;14;No;;Mastered: Flawless execution after previous failures.
+;Stacked Area;Point Plotting ;450;500;10;2;69;No;;Good speed, minor clicking errors.
+;Stacked Area;Line Drawing ;50;50;1;0;8;No;;Perfect execution.
+;Stacked Area;Stack Third Category ;100;150;3;2;28;No;;"Initially clicked ""FullGraph"" again, then corrected course."
+;Stacked Area;Second Point Plotting ;400;500;10;4;103;No;;Slightly more errors (background clicks) than previous attempt.
+;Stacked Area;Second Line Drawing ;50;50;1;0;8;No;;Perfect execution.
+;Misleading;Years Missing;-25;50;1;4;65;No;;"Struggled to find the ""missing years"" click target on the X-axis."
+;Misleading;Y Axis Increment;-25;50;1;3;64;No;;"Clicked ""FullGraph"" multiple times before finding the axis."
+;Misleading;Comparison Chart;50;50;1;0;13;No;;Correctly identified the misleading Y-axis immediately.
+;Misleading;Reversed Years;50;50;1;0;9;No;;Correctly identified the X-axis issue immediately.
+;Misleading;Years Missing ;50;50;1;0;7;No;;Mastered: Instant identification.
+;Misleading;Y Axis Increment ;50;50;1;0;12;No;;Mastered: Instant identification.
+;Misleading;Comparison Chart ;50;50;1;0;3;No;;Mastered: Instant identification.
+;Misleading;Reversed Years ;50;50;1;0;3;No;;Mastered: Instant identification.
+P19;Base Chart;Axes Activity;475;500;10;5;114;No;;Struggled with Increments (tried 2019, 2, 1, 3) and Y-End label (3 vs 30).
+;Line Chart;Point Plotting;500;500;10;1;37;No;;"Generally accurate; only one background misclick."
+;Line Chart;Line Drawing;50;50;1;0;15;No;;Perfect execution.
+;Line Chart;Prepare Second Category;200;150;4;0;30;No;;"Bonus points awarded; correctly identified adjustments needed."
+;Line Chart;Second Point Plotting;500;500;10;1;30;No;;Visual bug in logs (x=1970), but game registered correct clicks.
+;Line Chart;Second Line Drawing;-50;50;1;3;22;No;;Careless: Multiple incomplete connection attempts and misclicks.
+;Area Chart;Introduction ;50;50;1;0;11;No;;Seamless execution.
+;Area Chart;Area Comparison ;50;200;4;0;58;No;;Anomaly: All actions marked correct (Green), but score was low. Likely time penalty or unlogged constraint.
+;Area Chart;Introduction ;50;50;1;0;2;No;;"Replay; perfect execution."
+;Area Chart;Area Comparison ;200;200;4;0;10;No;;Perfect execution on replay.
+;Stacked Area;First Stacking;150;150;3;0;10;No;;Correctly identified graph was not ready and adjusted Y-axis.
+;Stacked Area;Point Plotting;500;500;10;0;68;No;;"Perfect precision; zero errors."
+;Stacked Area;Line Drawing;50;50;1;0;5;No;;Perfect execution.
+;Stacked Area;Stack Third Category;150;150;3;0;39;No;;"Correctly handled the ""Valorant"" category addition."
+;Stacked Area;Second Point Plotting;375;500;10;5;62;No;;Regression: 5 background clicks (misclicks) while plotting points.
+;Stacked Area;Second Line Drawing;50;50;1;0;5;No;;Perfect execution.
+;Misleading;Years Missing;-25;50;1;3;31;No;;"Searching: Clicked ""FullGraph"" and ""GraphStart"" before finding the gap."
+;Misleading;Y Axis Increment;50;50;1;0;17;No;;Instant identification.
+;Misleading;Comparison Chart;25;50;1;1;21;No;;Clicked X-Axis first instead of the misleading Y-Axis.
+;Misleading;Reversed Years;50;50;1;0;13;No;;Instant identification.
+;Misleading;Years Missing ;50;50;1;0;9;No;;Mastered: Instant identification.
+;Misleading;Y Axis Increment ;50;50;1;0;6;No;;Mastered: Instant identification.
+;Misleading;Comparison Chart ;50;50;1;0;3;No;;Mastered: Instant identification.
+;Misleading;Reversed Years ;50;50;1;0;3;No;;Mastered: Instant identification.
+P20;Base Chart;Axes Activity;0;500;6;2;117;Yes;11;User struggled with X-axis increments (tried 2016, 10) before returning to explanation.
+;Base Chart;Axes Activity;450;500;10;3;98;No;;Struggled with creation order (Y before X) and Y-End labeling (600 vs 650).
+;Line Chart;Point Plotting;500;500;10;1;48;No;;"Nearly perfect; one misclick on the final point."
+;Line Chart;Line Drawing;50;50;1;0;8;No;;Perfect execution.
+;Line Chart;Prepare Second Category;50;50;1;0;9;No;;Correctly identified no adjustment needed.
+;Line Chart;Second Point Plotting;500;500;10;3;66;No;;General accuracy good, but 3 background misclicks.
+;Line Chart;Second Line Drawing;0;50;1;0;6;No;;"Score log shows 0/50 but level ended with full points; likely a logging glitch as connection was marked correct."
+;Area Chart;Introduction ;50;50;1;0;9;No;;Perfect execution.
+;Area Chart;Area Comparison ;0;50;0;4;32;Yes;1;Failed 4 times to enter correct Y-End value before returning to explanation.
+;Area Chart;Introduction ;50;50;1;0;2;No;;Fast replay.
+;Area Chart;Area Comparison ;25;50;1;1;30;No;;Initially entered wrong Y-End (30), then corrected (650).
+;Stacked Area;First Stacking ;0;150;1;0;6;Yes;4;Clicked 'No' correctly then immediately returned to explanation.
+;Stacked Area;First Stacking ;-50;150;1;4;36;Yes;3;Major struggles: Incorrect 'Yes', clicked FullGraph 3 times.
+;Stacked Area;First Stacking ;100;150;2;0;44;Yes;1;Got graph ready and Y-axis click correct, failed inputs (not penalized), then returned.
+;Stacked Area;First Stacking ;100;150;2;0;94;Yes;2;Same pattern: Correct setup, struggled with Y-End input, returned.
+;Stacked Area;First Stacking ;100;150;2;0;35;No;;Level reset occurred during input phase.
+;Stacked Area;First Stacking ;150;150;3;0;164;No;;Finally succeeded. Long pause (2+ mins) before completing inputs.
+;Stacked Area;Point Plotting;500;500;10;0;95;No;;Perfect execution.
+;Stacked Area;Line Drawing;50;50;1;0;4;No;;Perfect execution.
+;Stacked Area;Stack Third Category;150;150;3;0;158;No;;Struggle with Y-End math (8 incorrect inputs), but correctly identified graph parts.
+;Stacked Area;Second Point Plotting;300;500;10;8;117;No;;High error rate (8 background clicks) suggesting trouble locating points accurately.
+;Stacked Area;Second Line Drawing;-300;50;1;14;15;No;;"Spamming: 14 ""Incomplete connection"" errors in 15 seconds."
+;Misleading;Years Missing ;0;50;1;2;23;No;;Clicked Title and FullGraph before finding the axis gap.
+;Misleading;Y Axis Increment ;-125;50;1;7;75;No;;Searching: Clicked X-axis 6 times and FullGraph once before finding Y-axis.
+;Misleading;Comparison Chart ;N/A;50;0;0;6;Yes;1;Returned to explanation immediately.
+;Misleading;Years Missing ;50;50;1;0;4;No;;Mastered on replay.
+;Misleading;Y Axis Increment ;50;50;1;0;4;No;;Mastered on replay.
+;Misleading;Comparison Chart ;-25;50;1;3;26;No;;Confused X-axis with Y-axis (3 errors).
+;Misleading;Reversed Years ;0;50;1;2;19;No;;Clicked Y-axis twice before noticing X-axis reversal.
+;Misleading;Years Missing ;50;50;1;0;2;No;;Speed run.
+;Misleading;Y Axis Increment ;50;50;1;0;2;No;;Speed run.
+;Misleading;Comparison Chart ;50;50;1;0;4;No;;Speed run.
+;Misleading;Reversed Years ;50;50;1;0;2;No;;Speed run.
+P21;Base Chart;Axes Activity;550;500;11;4;331;No;;Perfectionist: User struggled with X-start labels (3 errors) but achieved a higher-than-max score due to bonus increments/actions not penalized.
+;Line Chart;Point Plotting;500;500;10;0;61;No;;Perfect execution.
+;Line Chart;Line Drawing;50;50;1;0;15;No;;Perfect execution.
+;Line Chart;Prepare Second Category;50;50;1;0;3;No;;Correctly identified no adjustment needed.
+;Line Chart;Second Point Plotting;500;500;10;1;83;No;;Nearly perfect, only one misclick on the 1970/20 point.
+;Line Chart;Second Line Drawing;0;50;1;0;17;No;;"Glitch: Score logged as 0 despite ""Correct connection created"" message."
+;Area Chart;Introduction;50;50;1;0;12;No;;Perfect execution.
+;Area Chart;Area Comparison;50;50;1;0;26;No;;Flawless. No Y-End adjustment needed, correctly entered second category value.
+;Stacked Area;First Stacking;150;150;3;0;21;No;;Perfect execution. Correctly identified graph readiness, adjustment area, and Y-End (180).
+;Stacked Area;Point Plotting;475;500;10;1;114;No;;Generally accurate, but one background misclick at the peak (2019).
+;Stacked Area;Line Drawing;50;50;1;1;10;No;;One incomplete connection attempt before success.
+;Stacked Area;Stack Third Category;150;150;3;0;27;No;;Perfect execution. Correctly calculated the cumulative Y-End (190).
+;Stacked Area;Second Point Plotting;500;500;10;0;126;No;;Perfect execution.
+;Stacked Area;Second Line Drawing;50;50;1;0;12;No;;Perfect execution.
+;Misleading;Years Missing;25;50;1;1;46;No;;"Clicked ""FullGraph"" before correctly identifying the missing years on the X-axis."
+;Misleading;Y Axis Increment;25;50;1;1;55;No;;"Clicked ""FullGraph"" before noticing the inconsistent Y-axis increments."
+;Misleading;Comparison Chart;50;50;1;0;11;No;;Perfect execution.
+;Misleading;Reversed Years;50;50;1;0;29;No;;Perfect execution.
+P22;Base Chart;Axes Activity;-;-;5;7;207;Yes;30;User struggled significantly with X-start/end labels. Returned to explanation.
+;Base Chart;Axes Activity;-;-;0;1;8;Yes;1;Immediate failure (No axis created).
+;Base Chart;Axes Activity;-;-;4;12;144;Yes;2;"Confusion: Severe misunderstanding of ""Increment"". User entered years (2020, 2018, etc.) instead of values."
+;Base Chart;Axes Activity;-;-;5;12;155;No ;;Continued increment confusion. Tried almost every year on the axis as an increment value.
+;Base Chart;Axes Activity;-;-;0;0;4;No;;Immediate restart.
+;Base Chart;Axes Activity;425;500;8;5;158;No;;Finally grasped X-axis, but struggled with Y-axis increments (tried 500, 1, 76).
+;Base Chart;Axes Activity;-;-;5;3;48;Yes;2;Failed on Y-end input (Entered 500 repeatedly for a max value of 75).
+;Base Chart;Axes Activity;500;500;9;0;44;No;;Perfect execution.
+;Line Chart;Point Plotting ;250;500;10;10;89;No;;Precision issues: 10 background clicks. Likely missing the hit area.
+;Line Chart;Point Plotting ;-;-;0;1;5;No;;Immediate background click error and restart.
+;Line Chart;Point Plotting ;500;500;10;0;17;No;;Perfect execution.
+;Line Chart;Line Drawing;50;50;1;0;5;No;;Perfect execution.
+;Line Chart;Point Plotting ;-;-;0;1;4;No;;Immediate background click error.
+;Line Chart;Point Plotting ;500;500;10;1;14;No;;One background click error, otherwise smooth.
+;Line Chart;Line Drawing;50;50;1;0;5;No;;Perfect execution.
+;Line Chart;Prepare Second Category;50;50;1;0;1;No;;Correctly identified no adjustment needed.
+;Line Chart;Second Point Plotting;500;500;10;1;30;No;;Very fast, only one misclick.
+;Line Chart;Second Line Drawing;0;50;1;1;8;No;;"Glitch: Score logged as 0 despite ""Correct connection created"". One background error."
+;Area Chart;Introduction;50;50;1;0;13;No;;Perfect execution.
+;Area Chart;Comparison ;-;-;0;7;40;No ;;Concept Error: Unable to determine Y-End. Guessed random numbers (85, 0, 80, 11).
+;Area Chart;Comparison ;-;-;0;5;34;No ;;Continued guessing for Y-End (40, 75, 70, 10).
+;Area Chart;Comparison ;-;-;1;2;67;Yes;1;Got Y-End correct but failed the comparability question and clicked wrong graph part.
+;Area Chart;Introduction ;50;50;1;0;8;No;;Perfect execution.
+;Area Chart;Comparison ;100;100;2;0;65;No;;Finally mastered the calculation and logic.
+;Stacked Area;First Stacking;50;150;3;2;105;No;;Struggle: Incorrectly identified graph readiness and clicked wrong parts (FullGraph).
+;Stacked Area;Point Plotting;350;500;10;6;49;No;;Precision: 6 background clicks. User is struggling to hit the specific data points.
+;Stacked Area;Line Drawing;50;50;1;0;2;No;;Perfect execution.
+;Stacked Area;Stack Third Category;150;150;3;0;15;No;;Perfect execution.
+;Stacked Area;Second Point Plotting;75;500;10;17;129;No;;Severe Failure: 17 Errors. User repeatedly clicked background (16 times) at 2020/2023. Likely confused by cumulative values.
+;Stacked Area;Second Line Drawing;50;50;1;0;4;No;;Perfect execution.
+;Misleading;Years Missing ;-;-;0;0;5;Yes;3;Immediate return to explanation.
+;Misleading;Years Missing ;50;50;1;0;66;No;;Correctly identified missing years.
+;Misleading;Y Axis Increment ;-;-;0;17;52;No ;;Spam Clicking: 17 Incorrect clicks on XAxis, XAxisEnd, and FullGraph. Could not find the Y-axis error.
+;Misleading;Years Missing ;50;50;1;0;3;No;;Perfect execution.
+;Misleading;Y Axis Increment ;50;50;1;1;13;No;;Found the error after one incorrect click on YAxisEnd.
+;Misleading;Comparison Chart;50;50;1;0;2;No;;Perfect execution.
+;Misleading;Reversed Years ;-50;50;1;4;18;No;;4 errors before success. Score logged as negative in game save.
+;Misleading;Years Missing ;50;50;1;0;3;No;;Perfect execution.
+;Misleading;Y Axis Increment ;50;50;1;1;4;No;;One error before success.
+;Misleading;Comparison Chart ;50;50;1;0;2;No;;Perfect execution.
+;Misleading;Reversed Years ;50;50;1;0;2;No;;Perfect execution.
+P23;Base Chart;Axes Activity;225;500;7;11;343;No;;Concept Failure: Major struggle with Y-start (tried 40, 200, 180) and Y-increments (tried 100, 10, 1, 15).
+;Base Chart;Axes Activity;500;500;9;1;109;No;;Recovery: Smooth execution. Only one minor error on X-increment (10 vs 1).
+;Line Chart;Point Plotting;500;500;10;0;50;No;;Perfect execution.
+;Line Chart;Line Drawing;50;50;1;0;15;No;;Perfect execution.
+;Line Chart;Prepare Second Category;50;50;1;0;10;No;;Correctly identified no adjustment needed.
+;Line Chart;Second Point Plotting;500;500;10;1;63;No;;One precision error (clicked 25 vs 35), otherwise solid.
+;Line Chart;Second Line Drawing;50;50;1;0;14;No;;Logged score 0/50 but completed successfully. Calculated as 50 based on Level total.
+;Area Chart;Introduction;50;50;1;0;17;No;;Perfect execution.
+;Area Chart;Comparison;50;50;1;0;22;No;;Perfect execution.
+;Stacked Area;First Stacking ;-25;150;0;1;16;Yes;2;"Incorrectly identified graph readiness (""Yes""). Immediate return to explanation."
+;Stacked Area;First Stacking ;25;150;2;1;39;Yes;2;Got graph readiness and axis selection correct, but failed Y-End calculation (200 vs 230).
+;Stacked Area;First Stacking ;150;150;3;0;31;No;;Perfect execution.
+;Stacked Area;Point Plotting;450;500;10;2;64;No;;Minor Precision Issues: 2 background clicks.
+;Stacked Area;Line Drawing;50;50;1;0;6;No;;Perfect execution.
+;Stacked Area;Stack Third Category;150;150;3;0;11;No;;Perfect execution.
+;Stacked Area;Second Point Plotting;325;500;10;7;141;No;;Cumulative Value Struggle: 7 errors total (1 wrong point, 6 background clicks). Significant struggle around 2021/2022 points.
+;Stacked Area;Second Line Drawing;50;50;1;0;6;No;;Perfect execution.
+;Misleading;Years Missing;50;50;1;0;15;No;;Perfect execution.
+;Misleading;Y Axis Increment;50;50;1;0;65;No;;High Latency: Perfect execution but took 65 seconds to find the error (Y-axis intervals).
+;Misleading;Comparison Chart;50;50;1;0;10;No;;Perfect execution.
+;Misleading;Reversed Years;50;50;1;0;22;No;;Perfect execution.
+P24;Base Chart;Axes Activity;75;500;7;11;426;Yes;2;"Severe Concept Failure: Struggle with Y-axis max/increments. Tried inputs like ""2015"" for Y-end."
+;Line Chart;Point Plotting;325;500;10;9;123;No;;Low Precision: High error rate (9 misses), particularly on the final point (2024).
+;Line Chart;Line Drawing;25;50;1;1;9;No;;"Initial attempt incomplete; required correction."
+;Line Chart;Prepare Second Category;50;50;2;5;151;Yes;19;"Confusion: Incorrectly answered ""Yes"" to graph readiness. Struggled significantly with Y-increments (tried 38, 35, 30, 0)."
+;Line Chart;Point Plotting ;500;500;10;2;29;No;;Improved speed and precision.
+;Line Chart;Line Drawing ;50;50;1;0;7;No;;Perfect execution.
+;Line Chart;Prepare Second Category ;50;50;3;1;51;Yes;3;Correctly identified graph readiness and Y-End, but failed on Y-increment again (entered 0).
+;Base Chart;Axes Activity;500;500;4;0;31;Yes;2;Full Recovery: Perfect execution on this attempt, though triggered a return to explanation immediately after.
+;Line Chart;Point Plotting ;500;500;10;0;24;No;;Perfect execution.
+;Line Chart;Line Drawing ;25;50;1;1;14;No;;Initial attempt incomplete.
+;Line Chart;Prepare Second Category ;-25;50;0;1;26;No;;"Regression: Incorrectly answered ""No"" regarding graph adjustment."
+;Line Chart;Second Point Plotting;500;500;10;0;58;No;;Perfect execution.
+;Line Chart;Second Line Drawing;50;50;1;0;30;No;;Logged as 0, but completed successfully.
+;Area Chart;Introduction;50;50;1;0;22;No;;Perfect execution.
+;Area Chart;Comparison;50;50;1;0;46;No;;Perfect execution.
+;Stacked Area;First Stacking ;-25;150;1;3;73;Yes;1;"Concept Failure: Correctly identified ""No"", but clicked randomly on X-axis and graph body instead of Y-axis."
+;Stacked Area;First Stacking ;-25;150;1;3;81;Yes;20;"Confusion: Incorrectly answered ""Yes"". Found Y-axis eventually but struggled with Y-End calculation (80, 100, 85)."
+;Stacked Area;First Stacking ;0;150;1;2;70;Yes;1;"clicked ""No"" correctly, but then clicked Title and Graph body."
+;Stacked Area;First Stacking ;100;150;2;1;21;Yes;1;Found Y-axis correctly but entered wrong Y-End (400 vs 430).
+;Stacked Area;First Stacking ;100;150;2;6;143;No;;Persistence: Finally passed stacking logic, despite 6 failed Y-End inputs.
+;Stacked Area;Point Plotting ;175;500;5;3;39;Yes;2;Abort: 50% completion before returning to explanation due to background clicks.
+;Stacked Area;First Stacking ;100;150;2;0;19;No;;executed correctly.
+;Stacked Area;Point Plotting ;450;500;10;2;67;No;;Good execution, minor precision errors on 2021.
+;Stacked Area;Line Drawing;25;50;1;1;13;No;;Initial incomplete connection.
+;Stacked Area;Stack Third Category;25;150;1;1;30;No;;"Incorrectly answered ""Yes"" (graph not ready), but found Y-axis adjustment correctly."
+;Stacked Area;Second Point Plotting;300;500;7;2;51;Yes;1;Fatigue/Abort: Successfully plotted 7 points but quit to explanation after errors on 2022.
+P25;Base Chart;Axes Activity;500;500;9;1;304;No;;Slow Start: Took 5 minutes. Minor error entering Y-end (entered 30 instead of 80).
+;Line Chart;Point Plotting;450;500;10;3;106;No;;Precision Issues: 3 background clicks while plotting 2016.
+;Line Chart;Line Drawing;50;50;1;0;11;No;;Perfect execution.
+;Line Chart;Prepare Second Category;-25;150;3;7;317;No;;"High Confusion: Incorrect logic (""Yes"" graph is ready) and significant struggle identifying graph parts (6 wrong clicks)."
+;Line Chart;Second Point Plotting;500;500;10;1;50;No;;Good speed. One background click error.
+;Line Chart;Second Line Drawing;50;50;1;0;15;No;;Perfect execution.
+;Area Chart;Introduction;50;50;1;0;11;No;;Perfect execution.
+;Area Chart;Comparison ;-100;200;2;1;114;No;;"Concept Failure: Correctly adjusted graph, but incorrectly answered ""Yes"" to comparability, failing the level."
+;Area Chart;Introduction ;50;50;1;0;8;No;;Perfect execution.
+;Area Chart;Comparison ;50;50;1;0;8;No;;Recovery: Correctly identified Y-End on second attempt.
+;Stacked Area;First Stacking Activity;25;150;2;9;142;No;;"Persistent Struggle: Incorrect logic (""Yes"" graph is ready), 2 wrong part clicks, and 6 attempts to guess Y-End (80...200) before finding 230."
+;Stacked Area;Point Plotting;375;500;10;5;160;No;;Low Precision: 5 errors (background clicks and wrong points) while plotting.
+;Stacked Area;Line Drawing;50;50;1;0;5;No;;Perfect execution.
+;Stacked Area;Stack Third Category;75;150;2;4;114;No;;"Pattern Repeated: Incorrect logic again (""Yes"" graph is ready). 3 failed attempts at Y-End calculation."
+;Stacked Area;Second Point Plotting;375;500;10;5;138;No;;Low Precision: 5 errors again. Mixture of background clicks and mis-clicking specific years (2019 vs 2020).
+;Stacked Area;Second Line Drawing;50;50;1;0;4;No;;Perfect execution.
+;Misleading;Years Missing;25;50;1;1;11;No;;One initial incorrect click.
+;Misleading;Y Axis Increment;50;50;1;0;5;No;;Perfect execution.
+;Misleading;Comparison;50;50;1;0;2;No;;Perfect execution.
+;Misleading;Reversed Years;50;50;1;0;11;No;;Perfect execution.
+P26;Base Chart;Axes Activity;475;500;10;3;76;No;;Scaling Struggle: User confused the Y-end label (entered 600 vs 650) and struggled with the increment twice before finding 50.
+;Line Chart;Point Plotting;500;500;10;1;54;No;;High Accuracy: Only one background click error (2018).
+;Line Chart;Line Drawing;50;50;1;0;9;No;;Perfect execution.
+;Line Chart;Prepare Second Category;50;50;1;0;12;No;;Correctly identified that the graph did not need adjustment.
+;Line Chart;Second Point Plotting;500;500;10;2;93;No;;Minor Precision Issues: Two background clicks, but generally smooth.
+;Line Chart;Second Line Drawing;50;50;1;0;8;No;;Perfect execution.
+;Area Chart;Introduction;50;50;1;0;3;No;;Perfect execution.
+;Area Chart;Comparison;50;50;1;0;8;No;;Quickly identified the correct Y-End value.
+;Stacked Area;First Stacking Activity;100;150;2;1;34;No;;"Calculated Score: Correct ""No"" and ""Graph Part"". One error entering Y-End (no penalty)."
+;Stacked Area;Point Plotting;475;500;10;1;48;No;;Calculated Score: Good plotting, single background click error.
+;Stacked Area;Line Drawing;50;50;1;0;6;No;;Perfect execution.
+;Stacked Area;Stack Third Category;100;150;2;0;9;No;;Calculated Score: Perfect execution of stacking logic.
+;Stacked Area;Second Point Plotting;425;500;10;3;63;No;;Calculated Score: Struggled with 2021 (multiple background clicks).
+;Stacked Area;Second Line Drawing;-75;50;2;5;42;No;;"Erratic Behavior: Successfully connected the line, then generated 5 ""Incomplete connection"" errors immediately after, dragging the score down significantly."
+;Line Chart;Point Plotting ;N/A;N/A;0;0;8;Yes;2;Aborted: Started level and immediately returned to explanation.
+;Base Chart;Axes Activity;N/A;N/A;1;50;117;Yes;2;Spam Clicking: User entered a loop of spam-clicking the Y-axis label (50+ events) before aborting.
+;Stacked Area;First Stacking ;N/A;N/A;1;1;14;Yes;1;"Aborted: Incorrectly answered ""Yes"" to graph ready, then aborted."
+;Misleading;Years Missing;50;50;1;0;18;No;;Perfect identification of missing data.
+;Misleading;Y Axis Increment;50;50;1;0;12;No;;Perfect identification of inconsistent intervals.
+;Misleading;Comparison;50;50;1;0;10;No;;Perfect identification of misleading comparison.
+;Misleading;Reversed Years;50;50;1;0;10;No;;Perfect identification of reversed axis.
+;Stacked Area;First Stacking ;100;150;2;0;8;No;;Calculated Score: Perfect execution.
+;Stacked Area;Point Plotting ;475;500;10;1;43;No;;Calculated Score: One background click error.
+;Stacked Area;Line Drawing ;50;50;1;0;8;No;;Perfect execution.
+;Stacked Area;Stack Third ;100;150;2;0;10;No;;Calculated Score: Perfect execution.
+;Stacked Area;Second Point Plotting ;500;500;10;0;34;No;;Calculated Score: Perfect run, no errors.
+;Stacked Area;Second Line Drawing ;50;50;1;0;6;No;;Perfect execution.
+;Base Chart;Axes Activity;N/A;N/A;1;20;60;Yes;2;Spam Clicking: Returned to Base Chart and repeated the Y-axis label spam behavior.
+P27;Base Chart;Axes Activity;475;500;10;1;188;No;;Start Value Confusion: User struggled with the Y-axis start, inputting 20 instead of 0.
+;Line Chart;Point Plotting;500;500;10;1;63;No;;High accuracy, only one misclick.
+;Line Chart;Line Drawing;-250;50;1;10;87;Yes;41;Major Mechanics Struggle: User failed 10 times to connect lines properly (unordered/incomplete), triggering a return to explanation.
+;Line Chart;Point Plotting ;500;500;10;0;44;No;;Perfect execution on retry.
+;Line Chart;Line Drawing ;50;50;1;0;7;No;;Learned mechanics immediately after explanation.
+;Line Chart;Prepare Second Category;50;50;1;0;18;No;;Correctly identified no adjustment needed.
+;Line Chart;Second Point Plotting;500;500;10;1;47;No;;Near perfect execution.
+;Line Chart;Second Line Drawing;50;50;1;0;6;No;;Perfect execution.
+;Area Chart;Introduction;50;50;1;0;10;No;;Perfect execution.
+;Area Chart;Comparison;200;200;4;0;47;No;;Correctly navigated the comparison logic and value adjustment.
+;Stacked Area;First Stacking Activity;125;150;3;1;253;No;;Calculation Struggle: 8 incorrect attempts at calculating the Y-End (175, 112, etc.) before finding 132.
+;Stacked Area;Point Plotting;425;500;10;3;97;No;;Precision Issues: Multiple background clicks around 2019/2024.
+;Stacked Area;Line Drawing;25;50;1;1;26;No;;One incomplete connection error.
+;Stacked Area;Stack Third Category;75;150;2;1;95;No;;Concept Error: Incorrectly indicated graph was ready (clicked Yes). Also struggled with Y-End calculation (2 errors).
+;Stacked Area;Second Point Plotting;450;500;10;2;83;No;;Double click error on 2023.
+;Stacked Area;Second Line Drawing;575;50;1;0;7;No;;Score log seems cumulative (575), but activity score is effectively 50 (Perfect).
+;Misleading;Years Missing;50;50;1;0;18;No;;Perfect identification.
+;Misleading;Y Axis Increment;50;50;1;0;19;No;;Perfect identification.
+;Misleading;Comparison;50;50;1;0;21;No;;Perfect identification.
+;Misleading;Reversed Years;50;50;1;0;27;No;;Perfect identification.
+P28;Line Chart;Point Plotting;500;500;10;0;133;No;;Perfect execution.
+;Line Chart;Line Drawing;50;50;1;0;15;No;;Quick and accurate connection.
+;Line Chart;Prepare Second Category;50;50;1;0;17;No;;Correctly identified no adjustment needed.
+;Line Chart;Second Point Plotting;500;500;10;0;33;No;;Perfect execution, very fast.
+;Line Chart;Second Line Drawing;50;50;1;0;14;No;;Perfect execution.
+;Area Chart;Introduction;50;50;1;0;9;No;;Handled fill animation correctly.
+;Area Chart;Comparison;50;50;1;0;29;No;;Correctly entered Y-End (40) without needing extra prompts.
+;Stacked Area;First Stacking Activity;75;150;3;3;102;Yes ;93;Major Struggle: User failed 2 previous attempts (aborted level twice). Final run had 3 errors identifying graph parts.
+;Stacked Area;Point Plotting;400;500;10;4;92;No;;Precision Issues: 4 misclicks (2 on wrong points, 2 on background).
+;Stacked Area;Line Drawing;50;50;1;0;6;No;;Perfect execution.
+;Stacked Area;Stack Third Category;150;150;3;0;152;No;;Calculation Struggle: User entered wrong Y-End twice (800, 885) before finding 910. No score penalty applied for value entries.
+;Stacked Area;Second Point Plotting;425;500;10;3;191;No;;Slow performance (191s). 3 errors (background clicks).
+;Stacked Area;Second Line Drawing;50;50;1;0;5;No;;Perfect execution.
+;Misleading;Years Missing;0;50;1;2;35;No;;Confusion: Clicked Y-axis parts twice before finding the missing years on X-axis.
+;Misleading;Y Axis Increment;25;50;1;1;36;No;;"Hitbox Issues: Triggered ""Almost correct"" feedback 8 times before clicking the specific correct spot."
+;Misleading;Comparison;25;50;1;1;23;No;;Clicked X-axis instead of Y-axis initially.
+;Misleading;Reversed Years;50;50;1;0;4;No;;Immediate recognition of reversed axis.
+P29;Base Chart;Axes Activity;N/A;500;7;3;135;Yes;11;User struggled with Y-start/end labels and returned to explanation.
+;Base Chart;Axes Activity;N/A;500;0;0;6;No;;Immediate abort.
+;Base Chart;Axes Activity;475;500;11;1;126;No;;Success. Only 1 error on Y-start label.
+;Line Chart;Point Plotting ;N/A;500;5;8;86;No;;High Error Rate: 8 errors (background clicks/wrong points) before restart.
+;Line Chart;Point Plotting ;N/A;500;0;0;3;Yes;2;Immediate abort.
+;Line Chart;Point Plotting ;N/A;500;4;3;30;Yes;9;Struggled with point accuracy (3 errors).
+;Line Chart;Point Plotting ;500;500;10;0;24;No;;Perfect Run. Fast execution.
+;Line Chart;Line Drawing;25;50;1;1;11;No;;Initial incomplete connection.
+;Line Chart;Prepare Second Category;25;150;4;9;144;No;;Major Struggle: 8 failed attempts at setting Y-Increment (tried 100, 10, 1, 1000...).
+;Line Chart;Second Point Plotting;500;500;10;0;40;No;;Perfect execution.
+;Line Chart;Second Line Drawing;-25;50;1;1;7;No;;Initial incomplete connection.
+;Line Chart;Point Plotting ;N/A;500;4;2;19;Yes;9;Aborted after 2 errors.
+;Line Chart;Point Plotting ;500;500;10;0;27;No;;Perfect execution.
+;Line Chart;Line Drawing;50;50;1;0;5;No;;Perfect execution.
+;Line Chart;Prepare Second Category;125;150;4;4;63;No;;Y-Increment Issues: 4 failed attempts (tried 10, 5, 1, 15) before finding 50.
+;Line Chart;Second Point Plotting;500;500;10;1;32;No;;1 wrong point click, but max score awarded by log.
+;Line Chart;Second Line Drawing;50;50;1;0;4;No;;Log reports 0 score despite correct connection.
+;Area Chart;Introduction ;50;50;1;0;6;No;;Handled fill animation correctly.
+;Base Chart;Axes Activity;N/A;500;5;0;96;No;;Replayed Base Chart unexpectedly, then quit.
+;Area Chart;Introduction ;50;50;1;0;12;No;;Correctly filled area.
+;Area Chart;Comparison;200;200;4;0;34;No;;Perfect execution.
+;Stacked Area;First Stacking ;75;150;2;3;37;Yes;20;Conceptual Failure: Incorrectly identified graph readiness and Y-End values.
+;Stacked Area;First Stacking ;150;150;3;0;22;No;;Perfect execution.
+;Stacked Area;Point Plotting;500;500;10;0;33;No;;Perfect execution.
+;Stacked Area;Line Drawing;50;50;1;0;11;No;;Correct connection (ignored post-success incomplete signal).
+;Stacked Area;Stack Third Category;150;150;3;0;63;No;;Calculation Struggle: Entered wrong Y-End twice (438, 442) before finding 441.
+;Stacked Area;Second Point Plotting;375;500;10;5;77;No;;Low Precision: 1 wrong point, 4 background clicks (-125 penalty).
+;Stacked Area;Second Line Drawing;50;50;1;0;5;No;;Perfect execution.
+;Misleading;Years Missing ;0;50;0;37;51;Yes;4;"Panic/Spam: User clicked ""FullGraph"" or ""Title"" 37 times frantically."
+;Misleading;Years Missing ;0;50;0;2;34;Yes;2;Failed to find missing years (clicked Y-Axis End).
+;Misleading;Years Missing ;0;50;0;1;13;Yes;2;Immediate failure (clicked Title) and exit.
+;Misleading;Years Missing ;50;50;1;0;3;No;;Finally identified missing years.
+;Misleading;Y Axis Increment;50;50;1;0;7;No;;Immediate identification.
+;Misleading;Comparison;50;50;1;0;7;No;;Immediate identification.
+;Misleading;Reversed Years;50;50;1;0;6;No;;Immediate identification.
+;Stacked Area;First Stacking ;100*;150;2;1;30;Yes;2;Correct setup, but failed Y-End input (110 vs 120) and quit.
+;Stacked Area;First Stacking ;100*;150;2;1;13;Yes;37;Correct setup, failed Y-End input (200 vs 230) and quit.
+;Stacked Area;First Stacking ;150*;150;3;0;15;No;;Perfect execution.
+;Stacked Area;Point Plotting;475*;500;10;1;63;No;;High accuracy, only 1 background click.
+;Stacked Area;Line Drawing;50*;50;1;0;3;No;;Perfect execution.
+;Stacked Area;Stack Third Category;N/A;150;0;0;N/A;No;;Session ends abruptly here.
+P30;Base Chart;Axes Activity;500;500;10;0;181;No;;Flawless execution. Perfect understanding of axis setup.
+;Line Chart;Point Plotting;475;500;10;3;92;No;;"Minor precision issues; clicked the background 3 times."
+;Line Chart;Line Drawing;50;50;1;0;14;No;;Smooth connection of all points.
+;Line Chart;Prepare Second Category;200;150;4;1;90;No;;Bonus points awarded despite one incorrect increment guess.
+;Line Chart;Second Point Plotting;500;500;10;0;79;No;;High accuracy on the Minecraft data set.
+;Line Chart;Second Line Drawing;0;50;1;0;12;No;;Logged as 0 score despite a correct connection.
+;Area Chart;Introduction Activity;50;50;1;0;10;No;;Successfully filled the area visualization.
+;Area Chart;Area Comparison;100;200;4;1;132;No;;Lost points for an initial incorrect Y-End guess (600).
+;Stacked Area;First Stacking Activity;25;150;2;1;71;No;;Mistakenly thought the graph was ready when it wasn't.
+;Stacked Area;Point Plotting Activity;500;500;10;0;162;No;;Perfect cumulative point placement.
+;Stacked Area;Line Drawing Activity;50;50;1;0;9;No;;Fast and accurate connection.
+;Stacked Area;Stack Third Category;25;150;2;1;60;No;;"Another ""Yes"" click when the graph needed adjustment."
+;Stacked Area;Second Point Plotting;400;500;10;4;381;No;;"Significant struggle with precision; 4 background clicks."
+;Stacked Area;Second Line Drawing;50;50;1;0;8;No;;"Connection successful despite ""incomplete"" log warnings."
+;Misleading;Years Missing Chart;50;50;1;0;43;No;;Correctly identified the gap in the X-axis.
+;Misleading;Y Axis Increment Chart;25;50;1;1;105;No;;Found the non-linear Y-axis after one misclick.
+;Misleading;Comparison Chart;50;50;1;0;15;No;;Spotted the axis scale mismatch immediately.
+;Misleading;Reversed Years Chart;50;50;1;0;17;No;;Identified the chronological reversal on the X-axis.
+P31;Base Chart;Axes Activity;450;500;8;4;258;No;;Struggled with increments (X=8, Y=40) and initial Y-start.
+;Line Chart;Point Plotting;475;500;10;4;120;No;;"High accuracy; 4 minor background click misses."
+;Line Chart;Line Drawing;25;50;1;1;17;No;;One failed attempt before connecting all points.
+;Line Chart;Prepare Second Category;200;150;4;0;43;No;;"Perfect adjustment for Roblox; bonus points awarded."
+;Line Chart;Second Point Plotting;500;500;10;0;55;No;;Flawless plotting for the second category.
+;Line Chart;Second Line Drawing;50;50;1;0;12;No;;Quick and clean connection.
+;Area Chart;Introduction Activity;50;50;1;0;11;No;;Successfully filled the area on the first try.
+;Area Chart;Area Comparison;50;50;1;0;14;No;;Correctly matched Y-End values for comparability.
+;Stacked Area;First Stacking Activity;100;150;2;5;109;No;;"Correctly identified graph needs; 5 attempts to find Y-End 255."
+;Stacked Area;Point Plotting Activity;425;500;10;3;114;No;;"Solid plotting; 3 background misses penalized."
+;Stacked Area;Line Drawing Activity;50;50;1;0;5;No;;Extremely fast completion (5 seconds).
+;Stacked Area;Stack Third Category;100;150;2;0;15;No;;Prompt identification of Y-axis adjustment for Fortnite.
+;Stacked Area;Second Point Plotting;475;500;10;1;166;No;;"Great precision; only 1 background miss."
+;Stacked Area;Second Line Drawing;50;50;1;0;6;No;;Final category connection completed successfully.
+;Misleading;Missing Years;50;50;1;3;35;No;;"Spotted the X-axis gap after 3 ""almost"" clicks."
+;Misleading;Y Axis Increment;50;50;1;0;43;No;;Immediately spotted the non-incremental Y-axis.
+;Misleading;Comparison Chart;50;50;1;0;8;No;;Very quick detection of Y-axis scale mismatch.
+;Misleading;Reversed Years;25;50;1;1;91;No;;One click on the full graph before identifying the X-axis reversal.
+P32;Base Chart;Axes Activity;475;500;10;3;139;No;;"Strong start; minor struggle with Y-axis increments."
+;Line Chart;Point Plotting;500;500;10;1;44;No;;"Highly accurate; only one stray click on the background."
+;Line Chart;Line Drawing;50;50;1;0;7;No;;Perfect execution.
+;Line Chart;Prepare Second Category;50;50;1;0;13;No;;Correctly identified that the graph scale was sufficient.
+;Line Chart;Second Point Plotting;500;500;10;1;53;No;;Solid precision on the Minecraft dataset.
+;Line Chart;Second Line Drawing;50;50;1;0;11;No;;Successfully connected all points.
+;Area Chart;Introduction Activity;50;50;1;0;9;No;;Swiftly filled the visualization.
+;Area Chart;Area Comparison;75;200;4;3;60;No;;"Tricky section; struggled with comparability logic and Y-End."
+;Stacked Area;First Stacking Activity;150;150;3;2;54;No;;Scores calculated via tasks: Graph Check, Part ID, Y-End.
+;Stacked Area;Point Plotting Activity;425;500;10;3;66;No;;3 background misses (-75 points).
+;Stacked Area;Line Drawing Activity;50;50;1;0;7;No;;Connected points with high efficiency.
+;Stacked Area;Stack Third Category;150;150;3;0;18;No;;Flawless preparation for the third category.
+;Stacked Area;Second Point Plotting;475;500;10;1;65;No;;Significant precision improvement from previous round.
+;Stacked Area;Second Line Drawing;50;50;1;0;3;No;;Near-instant completion.
+;Misleading;Missing Years Chart;25;50;1;1;39;No;;Initial misclick on the graph body before finding the X-axis gap.
+;Misleading;Y Axis Increment Chart;50;50;1;0;187;No;;Very careful inspection of the non-linear scale.
+;Misleading;Comparison Chart;50;50;1;0;7;No;;Rapidly identified the axis scale deception.
+;Misleading;Reversed Years Chart;50;50;1;0;15;No;;Spotted the chronological reversal immediately.
+P33;Base Chart;Axes Activity;325;500;10;12;329;No;;"Significant struggle with Y-axis increments; entered 123,580 at one point!"
+;Line Chart;Point Plotting;500;500;10;9;103;Yes;15;Precision issues led to a mid-activity explanation review.
+;Line Chart;Line Drawing;0;50;1;2;17;No;;Attempted to finish without connecting all points.
+;Line Chart;Prepare Second Category;-25;50;0;1;10;No;;Incorrectly assumed the graph needed scaling adjustments.
+;Line Chart;Second Point Plotting;500;500;10;1;39;No;;Much higher precision on the second dataset.
+;Line Chart;Second Line Drawing;50;50;1;0;9;No;;Perfect execution.
+;Area Chart;Introduction Activity;50;50;1;0;34;No;;Successfully filled the area visualization.
+;Area Chart;Area Comparison;50;50;1;0;23;No;;Quickly identified the matching Y-End values.
+;Stacked Area ;First Stacking Activity;75;150;2;1;46;No;;"Missed the ""Graph Ready"" check initially."
+;Stacked Area ;Point Plotting;-1200;500;10;68;397;No;;Massive precision struggle at the 2023 data point.
+;Stacked Area ;Line Drawing;50;50;1;0;17;No;;Points connected successfully despite previous plotting chaos.
+;Stacked Area ;Stack Third Category;100;150;2;0;36;No;;Smooth setup, though Y-End took 7 tries (not penalized).
+;Stacked Area ;Second Point Plotting;175;500;10;13;73;No;;Improvement in speed, but still clicking the background frequently.
+;Stacked Area ;Second Line Drawing;50;50;1;0;5;No;;Very fast completion.
+;Stacked Area ;First Stacking Activity;100;150;2;0;39;No;;Clean run after the level restart.
+;Stacked Area ;Point Plotting;450;500;10;2;34;No;;Drastic precision improvement (95% reduction in errors!).
+;Stacked Area ;Line Drawing;25;50;1;1;9;No;;One incomplete connection before final success.
+;Stacked Area ;Stack Third Category;100;150;2;0;8;No;;Fastest setup time recorded.
+;Stacked Area ;Second Point Plotting;300;500;10;8;84;No;;Struggled again with the 2020 coordinate clicks.
+;Stacked Area ;Second Line Drawing;50;50;1;0;6;No;;Perfect final connection.
+;Misleading;Missing Years Chart;50;50;1;0;10;Yes;2;
+P34;Base Chart;Axes Activity;N/A;500;6;4;168;Yes;40;Struggled with X-axis increment (entered '5' and '2016').
+;Base Chart;Axes Activity;N/A;500;6;3;112;Yes;14;Continued difficulty with X-axis increment logic.
+;Base Chart;Axes Activity;500;500;10;1;78;No;;Successfully set Y-increment to 5 and X-increment to 1.
+;Line Chart;Point Plotting;500;500;10;0;45;No;;Perfect precision on the first data series.
+;Line Chart;Line Drawing;50;50;1;0;6;No;;Successfully connected all PubG data points.
+;Line Chart;Prep. Second Cat.;50;50;1;0;17;No;;Correctly identified that the scale (80) fit Genshin Impact.
+;Line Chart;2nd Point Plotting;500;500;10;0;47;No;;Consistent high accuracy with second dataset.
+;Line Chart;2nd Line Drawing;50;50;1;0;6;No;;Perfect connection for the second series.
+;Area Chart;Intro Activity;50;50;1;0;6;No;;Filled the area under the line correctly.
+;Area Chart;Area Comparison;25;50;1;1;28;No;;One mistake on the initial Y End entry (75 vs 650).
+;Stacked Area;1st Stacking;25;150;1;1;122;No;;"Incorrectly clicked ""Yes"" for graph ready. Y "
+;Misleading;Years Missing ;50;50;1;0;18;No;;Spotted the missing years.
+;Misleading;Y Axis Increment;0;50;1;1;27;No;;"One click on ""FullGraph"" before finding the non-incremental axis."
+;Misleading;Comparison Chart;50;50;1;0;8;No;;Identified the deceptive Y-axis scale immediately.
+;Misleading;Reversed Years;-50;50;1;4;106;Yes;13;Significant trouble identifying the reversed X-axis order.
+;Misleading;Years Missing ;-75;50;1;5;65;No;;"Regression; clicked the Y "
+;Misleading;Y Axis Increment;50;50;1;0;11;No;;Improved performance on the increment task.
+;Misleading;Comparison Chart;50;50;1;0;5;No;;Consistent success with comparison charts.
+;Misleading;Reversed Years;50;50;1;0;10;Yes;2;Mastered the reversed years identification.
+;Misleading;Years Missing ;50;50;1;0;4;No;;"Fastest completion of the ""Missing Years"" task."
+;Misleading;Y Axis ;25;50;1;1;42;No;;Slow but successful identification of axis increments.
+;Stacked Area;1st Stacking;100;150;2;0;22;Yes;2;"Correctly identified ""No"" and the Y-axis; missed Y "
+;Area Chart;Intro ;50;50;1;0;6;No;;Rapidly filled the area visualization.
+;Area Chart;Area Comp. ;150;200;4;2;67;No;;Handled the non-matching Y-End comparability sequence.
+;Area Chart;Final Success;100;100;2;0;11;No;;Perfect run on the final Area comparison task.
+;Stacked Area;1st Stacking (Finals);100;150;2;0;~15;Yes;60;Repeated attempts at various Y 
+P35;Base Chart;Axes Activity;350;500;10;8;217;No;;Struggled with X and Y increments before finding the right scale.
+;Line Chart;Point Plotting ;425;500;10;4;46;No;;"High speed; minor precision issues on the 2020 peak."
+;Line Chart;Line Drawing ;50;50;1;0;10;No;;Successfully connected all Fall Guys data points.
+;Line Chart;Prep Second Cat ;0;50;0;5;61;No;;Level failed/restarted after difficulty identifying the Y-axis.
+;Line Chart;Point Plotting ;475;500;10;2;26;No;;Significant improvement in precision.
+;Line Chart;Line Drawing ;50;50;1;0;6;No;;Precise and fast.
+;Line Chart;Prep Second Cat ;175;150;4;4;111;No;;Finally mastered the Y-axis extension and increment logic.
+;Line Chart;Point Plotting (3);400;500;10;6;106;No;;Points placed at 1970 suggests a temporary UI or input confusion.
+;Line Chart;Line Drawing (3);50;50;1;0;6;No;;Closed out the level with a clean connection.
+;Area Chart;Introduction;50;50;1;0;5;No;;Instant success with area filling.
+;Area Chart;Area Comparison;25;50;1;1;31;No;;One typo on the Y 
+;Stacked Area;1st Stacking Task;50;150;2;2;27;No;;Correctly adjusted the Y-axis to 45 after an initial misclick.
+;Stacked Area;Point Plotting ;425;500;10;3;74;No;;Handled the cumulative stacking points well.
+;Stacked Area;Line Drawing ;0;50;1;2;8;No;;Score penalized by two incomplete connection attempts.
+;Stacked Area;Stack Third Cat;150;150;3;0;33;No;;Perfect logic on the Y 
+;Stacked Area;Point Plotting ;475;500;10;1;62;No;;Near-perfect placement for the third category.
+;Stacked Area;Line Drawing ;25;50;1;1;12;No;;Improved accuracy on the final connection.
+;Misleading;Missing Years;25;50;1;1;35;No;;Spotted the gap in X-axis timeline.
+;Misleading;Y-Axis Increment;50;50;1;0;15;No;;Identified the non-incremental Y-axis immediately.
+;Misleading;Comparison Chart;50;50;1;0;65;No;;Careful analysis led to a correct identification.
+;Misleading;Reversed Years;25;50;1;1;32;No;;Caught the sneaky reversed X-axis order.
+P36;Base Chart;Axes Activity;450;500;10;3;211;No;;Successfully corrected Y-axis increments from 5/10 to 20.
+;Line Chart;Point Plotting ;500;500;10;0;108;No;;Perfect execution on the first category (Minecraft).
+;Line Chart;Line Drawing ;25;50;1;1;14;No;;One incomplete connection attempt before success.
+;Line Chart;Prep Second Cat;200;150;4;0;60;No;;Exceeded max score by correctly identifying all adjustment needs.
+;Line Chart;Point Plotting ;475;500;10;4;65;No;;"Plotted points at ""1970"" suggests a UI offset or input quirk."
+;Line Chart;Line Drawing ;0;50;1;0;19;No;;Connection made successfully, though log registered 0 score.
+;Area Chart;Introduction;50;50;1;0;7;No;;Instant success with the area fill mechanic.
+;Area Chart;Area Comparison;50;50;1;0;11;No;;Correctly identified matching $Y_{End}$ values.
+;Stacked Area;1st Stacking Tasks;150;150;3;0;28;No;;Flawless preparation for the Minecraft/Fortnite stack.
+;Stacked Area;Point Plotting ;425;500;10;3;370;No;;"Highly methodical; took significant time for precision."
+;Stacked Area;Line Drawing ;50;50;1;0;7;No;;Clean connection for the Minecraft category.
+;Stacked Area;3rd Stacking Tasks;150;150;3;1;33;No;;Failed first $Y_{End}$ entry, but corrected without point loss.
+;Stacked Area;Point Plotting ;425;500;10;3;267;No;;Steady plotting despite background click errors.
+;Stacked Area;Line Drawing ;0;50;1;2;9;No;;Multiple incomplete attempts resulted in a 0 score.
+;Misleading;Missing Years;50;50;1;0;26;No;;Spotted the gap in the X-axis timeline immediately.
+;Misleading;Y-Axis Increment;50;50;1;0;16;No;;Correctly identified non-standard vertical scaling.
+;Misleading;Comparison Chart;50;50;1;0;6;No;;Very fast identification of the misleading Y-axis.
+;Misleading;Reversed Years;50;50;1;0;3;No;;Elite speed in catching the reversed X-axis order.
+P37;Base Chart;Axes Activity;400;500;10;8;355;No;;"Persistent with Y-axis increments; tried 5 different values before settling on 20."
+;Line Chart;Point Plotting;500;500;10;1;118;No;;"High accuracy; only one minor slip-up on the 2016 data point."
+;Line Chart;Line Drawing;50;50;1;0;7;No;;Quick and clean connection of all points.
+;Line Chart;Prepare Second Cat;50;50;1;0;9;No;;Correctly identified that no adjustment was needed for Pokemon Go.
+;Line Chart;Point Plotting ;500;500;10;0;48;No;;Flawless plotting for the second category.
+;Line Chart;Line Drawing ;50;50;1;0;14;No;;Successfully completed the line chart level.
+;Area Chart;Intro & Comparison;100;100;2;0;26;No;;"After a failed first attempt, the second run was a perfect ""no-error"" success."
+;Stacked Area;First Stacking;150;150;3;0;38;No;;Handled the graph readiness and $Y_{End}$ logic perfectly.
+;Stacked Area;Point Plotting ;350;500;10;6;157;No;;Struggled with precision on the 2020 point ($176$), with 5 background clicks.
+;Stacked Area;Line Drawing ;50;50;1;0;5;No;;Connected the Roblox category points instantly.
+;Stacked Area;Stack Third Cat;75;150;2;1;51;No;;"One error on graph readiness; $Y_{End}$ typos ($453$ vs $458$) were excluded from penalty."
+;Stacked Area;Point Plotting ;375;500;10;5;216;No;;"Methodical plotting for Pokemon Go; several background misses."
+;Stacked Area;Line Drawing ;50;50;1;0;5;No;;Clean finish for the third category.
+;Misleading;Missing Years;25;50;1;1;38;No;;Spotted the X-axis gap after one misclick.
+;Misleading;Y-Axis Increment;50;50;1;0;20;No;;Instant identification of the non-incremental scale.
+;Misleading;Comparison Chart;25;50;1;2;42;No;;Took a few tries to isolate the Y-axis as the misleading factor.
+;Misleading;Reversed Years;50;50;1;0;15;No;;Quickly caught the chronologically reversed X-axis.
+P38;Base Chart;Axes Activity;475;500;10;1;166;No;;"Solid start; one misclick on the X-axis label before self-correcting."
+;Line Chart;Point Plotting;500;500;10;0;29;No;;Perfect precision on the first set of points for Fall Guys.
+;Line Chart;Line Drawing;50;50;1;0;17;No;;Clean connection on the first attempt.
+;Line Chart;Prep Second Cat;200;150;2;1*;64;No;;*Error on $Y_{End}$ (60 vs 75) ignored per your scoring rules.
+;Line Chart;Point Plotting ;500;500;10;1;39;No;;"High accuracy; one background click error."
+;Line Chart;Line Drawing ;-100;50;1;6;160;No;;"Struggled significantly with connections; 6 incomplete attempts."
+;Area Chart;Introduction;50;50;1;0;5;No;;Immediate success with the area fill mechanic.
+;Area Chart;Area Comparison;50;50;1;0;11;No;;Correctly identified matching $Y_{End}$ values.
+;Stacked Area;First Stacking;150;150;3;0;14;No;;Flawless preparation for the Brawl Stars/Minecraft stack.
+;Stacked Area;Point Plotting ;375;500;10;5;87;No;;"Consistent logic, but 5 background clicks suggest a bit of ""fumble."""
+;Stacked Area;Line Drawing ;50;50;1;0;5;No;;Quick and accurate connection of the stacked layer.
+;Stacked Area;Stack Third Cat;150;150;3;1*;25;No;;*Error on $Y_{End}$ (640 vs 638) ignored per your scoring rules.
+;Stacked Area;Point Plotting ;450;500;10;2;131;No;;Improved precision on the second stacking category.
+;Stacked Area;Line Drawing ;50;50;1;0;5;No;;Mastered the stacking technique by the end of the level.
+;Misleading;Missing Years;50;50;1;0;18;No;;Spotted the X-axis gap instantly.
+;Misleading;Y-Axis Increment;50;50;1;0;20;No;;Correctly identified the non-standard vertical scale.
+;Misleading;Comparison Chart;50;50;1;0;8;No;;Elite speed in catching the Y-axis manipulation.
+;Misleading;Reversed Years;50;50;1;0;7;No;;Perfect detection of the chronologically reversed X-axis.
+P39;Base Chart;Axes Activity;475;500;10;2;125;No;;"Handled axes and labels well; slight confusion on Y-start and initial increment choice."
+;Line Chart;Point Plotting;500;500;10;1;45;No;;"High precision; only one misclick on the 2016 data point."
+;Line Chart;Line Drawing;50;50;1;0;11;No;;Fast and accurate connection of all plotted points.
+;Line Chart;Prep 2nd Cat;200;150;2;1;47;No;;"Correctly identified the need for Y-axis adjustment; one minor typo on Y-end before fixing."
+;Line Chart;Point Plotting 2;500;500;10;0;33;No;;Flawless execution on the second category plotting.
+;Line Chart;Line Drawing 2;25;50;1;1;46;No;;One incomplete connection attempt before final successful drawing.
+;Area Chart;Introduction;50;50;1;0;7;No;;Simple and effective completion of the area fill task.
+;Area Chart;Comparison;50;50;1;0;19;No;;Successfully entered the Y-end for the second category.
+;Stacked Area;First Stacking;150;150;3;0;13;No;;Perfect logic on graph readiness and Y-axis part selection.
+;Stacked Area;Point Plotting 1;500;500;10;0;39;No;;Highly efficient plotting for the second category (Roblox).
+;Stacked Area;Line Drawing 1;50;50;1;0;7;No;;Immediate successful connection of the first stack layer.
+;Stacked Area;Stack 3rd Cat;150;150;3;0;9;No;;Flawless preparation for the third layer (Brawl Stars).
+;Stacked Area;Point Plotting 2;475;500;10;1;39;No;;"Great accuracy; one background click error while targeting the 2023 point."
+;Stacked Area;Line Drawing 2;50;50;1;0;6;No;;Final stack layer connected perfectly.
+;Misleading;Missing Years;50;50;1;0;14;No;;Quickly spotted the missing chronological gaps on the X-axis.
+;Misleading;Y-Axis Incr.;50;50;1;0;9;No;;Correctly identified the non-linear vertical scale.
+;Misleading;Comparison;50;50;1;0;5;No;;Elite speed in identifying misleading Y-axis scales between charts.
+;Misleading;Reversed Years;50;50;1;0;5;No;;Instant recognition of reversed chronological order.
+P40;Base Chart;Axes Activity;500;500;10;0;47;No;;Perfect execution. All axes, labels, and increments set correctly on the first try.
+;Line Chart;Point Plotting;500;500;10;0;23;No;;High accuracy and speed.
+;Line Chart;Line Drawing;50;50;1;0;4;No;;Connected all points instantly.
+;Line Chart;Prep 2nd Category;50;50;1;0;5;No;0;Recognized that Genshin Impact data fit the existing scale without adjustment.
+;Line Chart;Point Plotting 2;500;500;10;0;19;No;;Maintained perfect accuracy for the second data series.
+;Line Chart;Line Drawing 2;50;50;1;0;5;No;;Completed the line chart without a single error across three sessions.
+;Area Chart;Introduction;50;50;1;0;15;No;;Successfully filled the area under the line.
+;Area Chart;Area Comparison;50;50;1;0;6;No;;Correctly synchronized the Y-end values for comparison.
+;Stacked Area;First Stacking;150;150;3;0;11;No;;Correctly identified that the graph was not ready and adjusted the Y-axis.
+;Stacked Area;Point Plotting 1;450;500;10;2;34;No;;"Solid work; two minor background clicks while plotting the final point."
+;Stacked Area;Line Drawing 1;25;50;1;1;30;No;;One incomplete connection attempt before successfully drawing the stack.
+;Stacked Area;Stack 3rd Category;150;150;3;0;9;No;;Efficiently prepared the graph for the third layer (Valorant).
+;Stacked Area;Point Plotting 2;475;500;10;1;46;No;;"High precision on the second stack; only one background click error."
+;Stacked Area;Line Drawing 2;50;50;1;0;6;No;;Final line drawn perfectly.
+;Misleading;Missing Years;50;50;1;0;21;No;;Identified gaps in the X-axis timeline.
+;Misleading;Y-Axis Increment;50;50;1;0;7;No;;Spotted the non-incremental scale on the Y-axis.
+;Misleading;Comparison Chart;50;50;1;0;5;No;;Caught the mismatch in Y-axis scales between two charts.
+;Misleading;Reversed Years;50;50;1;0;3;No;;Found the reversed chronological order almost instantly.
+P41;Base Chart;Axes Activity;450;500;11;2;43;No;;Initial confusion with X-axis label and start year (entered 1 instead of 2015).
+;Line Chart;Point Plotting Activity;500;500;10;0;35;No;;Perfect execution on data point placement for Fall Guys.
+;Line Chart;Line Drawing Activity;50;50;1;0;14;No;;Successfully connected all points in one go.
+;Line Chart;Prepare Second Category;200;150;3;1;65;No;;"Identified need for graph adjustment; one error on Y increment (entered 2)."
+;Line Chart;Second Point Plotting;500;500;10;0;42;No;;Perfect plotting for Genshin Impact.
+;Line Chart;Second Line Drawing;-150;50;1;6;107;No;;"Significant struggle with line connections; 6 failed attempts before success."
+;Area Chart;Introduction Activity;50;50;1;0;10;No;;Simple click-and-fill task completed quickly.
+;Area Chart;Area Comparison;25;50;1;1;38;No;;One error entering Y End for the second category.
+;Area Chart;Introduction (Re-run);50;50;1;0;7;No;;Fast completion on the second play-through.
+;Area Chart;Area Comparison (Re-run);50;50;1;0;9;No;;Corrected previous mistake on Y End value.
+;Stacked Area;First Stacking Activity;100;100;2;0;16;No;;Correctly identified graph was not ready and selected Y-axis.
+;Stacked Area;Point Plotting Activity;475;500;10;1;61;No;;One misclick on the background instead of the point for 2018.
+;Stacked Area;Line Drawing Activity;700;700;1;0;7;No;;Fast and accurate connection of the Fortnite stack.
+;Stacked Area;Stack Third Category;100;100;2;1;15;No;;"Correct flow; error on Y End value (1130) ignored per scoring rules."
+;Stacked Area;Second Point Plotting;500;500;10;0;58;No;;Perfect stacking for Valorant category.
+;Stacked Area;Second Line Drawing;700;700;1;0;7;No;;Final line drawn perfectly.
+;Misleading;Years Missing Chart;50;50;1;0;17;No;;Identified the broken X-axis timeline.
+;Misleading;Y Axis Increment Chart;50;50;1;0;11;No;;Spotted non-linear scale on the Y-axis.
+;Misleading;Comparison Chart;50;50;1;0;7;No;;Quickly identified the misleading Y-axis scaling.
+;Misleading;Reversed Years Chart;50;50;1;0;7;No;;Noticed the chronological reversal on the X-axis.
+P42;Base Chart;Axes Activity;425;500;9;6;134;No;;Significant struggle finding the correct Y-increment (50).
+;Line Chart;Point Plotting Activity;500;500;10;1;43;No;;One misclick on year 2024 before finishing.
+;Line Chart;Line Drawing Activity;50;50;1;0;7;No;;Perfect connection on the first try.
+;Line Chart;Prepare Second Category;50;50;1;0;24;No;;Correctly identified that no adjustment was needed.
+;Line Chart;Second Point Plotting;500;500;10;0;16;No;;Very rapid and accurate plotting.
+;Line Chart;Second Line Drawing;50;50;1;0;5;No;;Completed in just 5 seconds.
+;Area Chart;Introduction Activity;50;50;1;0;7;No;;Simple fill task completed quickly.
+;Area Chart;Area Comparison;50;50;1;0;13;No;;Correctly entered Y End (400) without errors.
+;Stacked Area;First Stacking ;100;100;2;0;22;No;;Correctly identified graph readiness and Y-axis.
+;Stacked Area;Point Plotting ;350;500;10;6;121;No;;"High error rate; struggled significantly with point 2018."
+;Stacked Area;Line Drawing ;-50;50;0;2;7;Yes;2;Aborted level after unordered/incomplete lines.
+;Stacked Area;First Stacking ;25;100;1;1;29;Yes;2;"Misclicked ""Yes"" (graph ready) before correcting."
+;Stacked Area;First Stacking ;100;100;2;0;9;No;;Smooth identification of Y-axis adjustment.
+;Stacked Area;Point Plotting ;450;500;10;2;33;No;;Improved accuracy compared to the first attempt.
+;Stacked Area;Line Drawing Activity;700;700;1;0;4;No;;Calculated game score provided in logs.
+;Stacked Area;Stack Third Category;100;100;2;0;11;No;;Accurate identification of stack requirements.
+;Stacked Area;Second Point Plotting;250;500;10;10;53;No;;Major difficulty with point 2023 (4 consecutive errors).
+;Stacked Area;Second Line Drawing;625;700;1;0;4;No;;Calculated game score provided in logs.
+;Misleading;Years Missing ;50;50;1;0;16;No;;Identified X-axis issue immediately.
+;Misleading;Y-Axis Increment ;-50;50;0;2;15;Yes;25;"Failed to find the non-incremental scale; reset to explanation."
+;Misleading;Years Missing ;50;50;1;0;3;No;;Retained knowledge from first attempt.
+;Misleading;Y-Axis Increment ;50;50;1;0;23;No;;Successfully located the Y-axis error after review.
+;Misleading;Comparison Chart;50;50;1;0;4;No;;Identified Y-axis scaling trick instantly.
+;Misleading;Reversed Years Chart;50;50;1;0;12;No;;Correctly spotted the chronological reversal.
+P43;Base Chart;Axes Activity;500;500;11;0;97;No;;Perfect run. Handled rounding logic for Y-End (75 to 80) flawlessly.
+;Line Chart;Point Plotting Activity;500;500;10;0;28;No;;High precision plotting for Genshin Impact.
+;Line Chart;Line Drawing Activity;25;50;1;1;15;No;;One incomplete connection before final success.
+;Line Chart;Prepare Second Category;200;150;3;1;49;No;;Corrected an initial Y-End entry (410) to 400.
+;Line Chart;Second Point Plotting;500;500;10;0;31;No;;Perfect plotting for Roblox.
+;Line Chart;Second Line Drawing;50;50;1;0;10;No;;Smooth final connection.
+;Area Chart;Introduction Activity;50;50;1;0;9;No;;Completed quickly after reviewing instructions.
+;Area Chart;Area Comparison;200;200;4;0;38;No;;"Mastered. Handled the comparability ""No"" logic perfectly."
+;Stacked Area;First Stacking Activity;100;100;2;0;20;No;;Efficiently identified that the Y-axis needed adjustment.
+;Stacked Area;Point Plotting Activity;500;500;10;0;35;No;;Perfect stacking for Brawl Stars onto Fortnite.
+;Stacked Area;Line Drawing Activity;700;700;1;0;7;No;;Calculation from game logs (Perfect).
+;Stacked Area;Stack Third Category;100;100;2;0;11;No;;Swift identification of the next stack level.
+;Stacked Area;Second Point Plotting;500;500;10;0;25;No;;Speed run. Plotted 10 points in 25 seconds (2.5s per point).
+;Stacked Area;Second Line Drawing;700;700;1;0;5;No;;Calculation from game logs (Perfect).
+;Misleading;Years Missing ;25;50;1;1;25;No;;"Initially clicked ""FullGraph"" before finding the X-axis error."
+;Misleading;Y-Axis Increment ;50;50;1;0;21;No;;Spot-on detection of non-incremental scale.
+;Misleading;Comparison Chart;50;50;1;0;10;No;;Immediate detection of Y-axis manipulation.
+;Misleading;Reversed Years Chart;50;50;1;0;8;No;;Quickly caught the timeline reversal.
+;Misleading;All Tasks (Re-run);200;200;4;0;20;No;;Flawless re-run. All four traps spotted in 20 seconds total.
+P44;Base Chart;Axes Activity ;500;500;10;2;89;No;;Replayed twice. Initially struggled with X-axis increments and Y-end rounding.
+;Line Chart;Point Plotting Activity;500;500;10;0;39;No;;Flawless precision in coordinate placement for Pokemon Go.
+;Line Chart;Line Drawing Activity;0;50;1;2;12;No;;"Struggled with incomplete connections; points were deducted per error."
+;Line Chart;Prepare Second Category;200;150;4;1;60;No;;"Correctly identified graph adjustment; slight error on Y-increment."
+;Line Chart;Second Point Plotting;500;500;10;0;45;No;;Consistent accuracy maintained for the second category.
+;Line Chart;Second Line Drawing;0;50;1;0;16;No;;Points were likely lost due to an internal timeout/reset logic in logs.
+;Area Chart;Introduction Activity;50;50;1;0;11;No;;Quick grasp of the area-filling mechanic.
+;Area Chart;Area Comparison;175;200;4;0;53;No;;Excellent work handling the comparability logic and Y-axis scaling.
+;Stacked Area;First Stacking Activity;150;150;3;0;22;No;;Perfectly identified that the graph was not ready for stacking.
+;Stacked Area;Point Plotting Activity;450;500;10;2;33;No;;Two misclicks (2016 and background) resulted in a -50 penalty.
+;Stacked Area;Line Drawing Activity;50;50;1;4;12;No;;"Activity ""completed"" early, but user made 4 connection errors after."
+;Stacked Area;Stack Third Category;150;150;3;1;33;No;;Y-end error (685 vs 690) did not result in a point deduction.
+;Stacked Area;Second Point Plotting;500;500;10;0;54;No;;High accuracy maintained even with the increased math complexity.
+;Stacked Area;Second Line Drawing;50;50;1;0;11;No;;Finalized the stack with a clean, correct connection.
+;Misleading;Years Missing Chart;50;50;1;0;23;No;;Spotted the broken X-axis timeline immediately.
+;Misleading;Y-Axis Increment Chart;50;50;1;1;44;No;;"Found the non-linear scale after one ""almost correct"" click."
+;Misleading;Comparison Chart;50;50;1;0;19;No;;Identified the Y-axis manipulation trap.
+;Misleading;Reversed Years Chart;50;50;1;0;18;No;;Caught the chronological reversal on the X-axis.
+P45;Base Chart;Axes Activity;500;500;10;0;91;No;;Perfect run. Handled the rounding logic (85 to 90) smoothly.
+;Line Chart;Point Plotting Activity;500;500;10;0;37;No;;High precision. All 10 points placed correctly on the first try.
+;Line Chart;Line Drawing Activity;50;50;1;0;6;No;;Efficient connection of all points.
+;Line Chart;Prepare Second Category;50;50;1;0;14;No;;Correctly identified that the graph scale was already sufficient.
+;Line Chart;Second Point Plotting;500;500;10;0;30;No;;Consistent performance with second data set.
+;Line Chart;Second Line Drawing;50;50;1;0;18;No;;Finished the level with a perfect score.
+;Area Chart ;Introduction Activity;50;50;1;0;8;No;;Quickly grasped the area-filling mechanic.
+;Area Chart ;Area Comparison Activity;125;200;4;2;61;Yes;1;Failed two Y 
+;Area Chart ;Introduction Activity;50;50;1;0;2;No;;Speed-running the intro.
+;Area Chart ;Area Comparison Activity;75;200;4;5;143;No;;Significant struggle with Y 
+;Area Chart (3);Introduction Activity;50;50;1;0;1;No;;Aborted comparison to check explanations.
+;Area Chart (4);Introduction Activity;50;50;1;0;1;No;;Post-explanation run.
+;Area Chart (4);Area Comparison Activity;200;200;4;0;11;No;;Mastery achieved. 0 errors and 11s completion time.
+;Stacked Area;First Stacking Activity;100;150;2;0;50;No;;Calculated: 2 correct logic tasks (+100), Y-End incorrect (0).
+;Stacked Area;Point Plotting Activity;500;500;10;0;40;No;;Flawless stacking logic for the second category.
+;Stacked Area;Line Drawing Activity;50;50;1;0;4;No;;Quick connection.
+;Stacked Area;Stack Third Category;25;150;1;1;16;No;;Calculated: 1 correct (+50), 1 incorrect (-25), Y-End skip.
+;Stacked Area;Second Point Plotting;475;500;10;1;36;No;;Calculated: 10 correct, 1 background misclick (-25).
+;Stacked Area;Second Line Drawing;50;50;1;0;4;No;;Finalized a complex chart successfully.
+;Misleading;Years Missing Chart;50;50;1;0;13;No;;Immediately spotted the X-axis gap.
+;Misleading;Y-Axis Increment Chart;50;50;1;0;10;No;;Caught the non-linear scale.
+;Misleading;Comparison Chart;50;50;1;0;5;No;;Spotted the Y-axis manipulation.
+;Misleading;Reversed Years Chart;50;50;1;0;4;No;;Detected chronological reversal instantly.
+P46;Base Chart;Axes Activity;450;500;9;0;71;Yes;53;Abandoned level right at the end to re-read explanations.
+;Line Chart;Point Plotting;500;500;10;0;22;No;;Very fast and accurate placement.
+;Line Chart;Line Drawing;50;50;1;0;8;No;;Smooth execution.
+;Line Chart;Prepare Second Category;200;150;4;0;33;No;;Bonus performance. Correctly identified and adjusted Y-axis.
+;Line Chart;Second Point Plotting;500;500;10;1;32;No;;One accidental background click, otherwise perfect.
+;Line Chart;Second Line Drawing;-100;50;1;5;37;No;;Struggled significantly. Multiple incomplete connections attempted.
+;Area Chart;Introduction Activity;50;50;1;0;6;No;;Simple and direct.
+;Area Chart;Area Comparison;50;50;1;0;15;No;;Handled the Yend  matching without issues.
+;Stacked Area;First Stacking Activity;100;150;2;2;43;No;;Calculated: 2 tasks correct (+100), 2 Y-end errors (no penalty).
+;Stacked Area;Point Plotting;475;500;10;1;44;No;;Calculated: 10 correct, 1 background click (-25).
+;Stacked Area;Line Drawing;50;50;1;0;5;No;;Quick connection.
+;Stacked Area;Stack Third Category;100;150;2;2;24;Yes;27;Calculated: 2 tasks correct (+100). Abandoned after 4 plotting errors.
+;Stacked Area;First Stacking ;150;150;3;0;25;No;;Perfected. Correctly entered Yend  113.
+;Stacked Area;Point Plotting ;475;500;10;1;50;No;;Calculated: 10 correct, 1 background click (-25).
+;Stacked Area;Line Drawing ;50;50;1;0;5;No;;Quick connection.
+;Stacked Area;Stack Third ;150;150;3;0;23;No;;Mastered. Correctly entered Yend  313.
+;Stacked Area;Second Point Plotting;450;500;10;2;43;No;;Calculated: 10 correct, 2 background clicks (-50).
+;Stacked Area;Second Line Drawing;50;50;1;0;4;No;;Finalized the chart.
+;Misleading;All Tasks ;150;200;4;2;93;Yes;2;"Missed the ""Missing Years"" X-axis check twice."
+;Misleading;All Tasks ;175;200;4;1;24;No;;Missed the Y-Axis increment check once.
+P47;Base Chart;Axes Activity;450;500;8;4;150;No;;Significant struggle with X-axis increments (guessed 10, 90, 100).
+;Line Chart;Point Plotting;500;500;10;0;21;No;;Perfect accuracy and high speed.
+;Line Chart;Line Drawing;50;50;1;0;7;No;;Connected all points correctly.
+;Line Chart;Prepare 2nd Category;-25;50;0;1;11;No;;Misjudged if the graph needed adjustment for the new category.
+;Line Chart;2nd Point Plotting;500;500;10;0;34;No;;Highly consistent plotting skills.
+;Line Chart;2nd Line Drawing;0;50;1;0;7;No;;Completed, but recorded no score in logs.
+;Area Chart;Intro Activity;50;50;1;0;6;No;;Successfully filled the area.
+;Area Chart;Area Comparison;-25;200;3;7;151;No;;"Failed Level. Confused X and Y axes; struggled with Y-end math."
+;Area Chart;Retry 1 Intro;50;50;1;0;5;No;;Quick recovery.
+;Area Chart;Retry 1 Comparison;50;50;1;0;7;No;;Resolved the Y-end entry immediately.
+;Stacked Area;1st Stacking;-50;150;2;8;55;No;;"Heavy errors on ""Graph Ready"" and Y-axis selection."
+;Stacked Area;Point Plotting;400;500;10;4;77;No;;High accuracy but penalized for 4 background clicks.
+;Stacked Area;Line Drawing;50;50;1;0;4;No;;Points connected successfully.
+;Stacked Area;Stack 3rd Category;150;150;3;5;61;No;;Correct logic, but guessed Y 
+;Stacked Area;2nd Point Plotting;500;500;10;0;60;No;;Flawless plotting on the second category.
+;Stacked Area;2nd Line Drawing;50;50;1;0;3;No;;Rapid completion.
+;Misleading;Missing Years;50;50;1;0;25;No;;Identified X-axis manipulation correctly.
+;Misleading;Y-Axis Increment;50;50;1;0;8;No;;Correctly spotted non-linear Y-axis.
+;Misleading;Comparison Chart;50;50;1;0;13;No;;Found the misleading Y-axis.
+;Misleading;Reversed Years;25;50;1;1;16;No;;One error before identifying the reversed X-axis.
+;Misleading;Retry 1 (All Tasks);200;200;4;0;24;No;;Perfect Score. Redid the level to clear the 1 error.
+;Stacked Area;Aborted Attempt;0;150;1;3;40;Yes;2;Quit after 3 failed Y
+;Area Chart;Retry 2 Intro;50;50;1;0;3;No;;Quick filler task.
+;Area Chart;Retry 2 Comparison;25;50;1;1;24;No;;Redid the level despite already passing it twice.
+;Area Chart;Retry 3 (All);100;100;2;0;10;No;;Achieved 100% on a redundant replay.
+;Line Chart;Aborted Attempt;25;500;1;1;8;Yes;1;Quit early to return to explanations.
+P49;Base Chart;Axes Activity;400;500;10;4;216;No;;Struggled with Y-axis increments (tried 5, 15, and 100).
+;Line Chart;Point Plotting;500;500;10;0;69;No;;Perfect execution on first category.
+;Line Chart;Line Drawing;50;50;1;0;11;No;;Quick and accurate.
+;Line Chart;Prepare 2nd Category;150;150;3;2;49;No;;Initially entered 600 and 50 for Y-End before correction.
+;Line Chart;2nd Point Plotting;475;500;10;1;89;No;;One background click at 2023.
+;Line Chart;2nd Line Drawing;0;50;1;1;17;No;;Initial background click before connecting.
+;Area Chart ;Introduction;50;50;1;0;14;No;;Clear understanding of mechanics.
+;Area Chart ;Area Comparison;25;50;1;1;45;No;;Failed first Y-End entry.
+;Stacked Area;1st Stacking Activity;50;100;2;1;20;No;;Misclicked FullGraph when identifying Y-axis.
+;Stacked Area;Point Plotting;425;500;10;3;91;No;;Multiple background clicks on early points.
+;Stacked Area;Line Drawing;50;50;1;0;6;No;;Precise line connection.
+;Stacked Area;Stack 3rd Category;0;100;1;1;16;No;;Misidentified graph readiness (Clicked 'Yes').
+;Stacked Area;2nd Point Plotting;450;700;10;4;71;No;;"Clicked 2020 point out of sequence; background errors."
+;Stacked Area;2nd Line Drawing;50;50;1;1;6;No;;One failed attempt before success.
+;Misleading;Missing Years;25;50;1;5;109;No;;"High difficulty; returned to explanation mid-task."
+;Misleading;Y Axis Increment;50;50;1;0;14;No;;Instant identification.
+;Misleading;Comparison Chart;50;50;1;0;6;No;;Accurate identification of Y-axis issue.
+;Misleading;Reversed Years;50;50;1;0;7;No;;Precise identification.
+;Area Chart ;Introduction;50;50;1;0;23;No;;Success on replay.
+;Area Chart ;Area Comparison;150;200;4;1;35;No;;One typo on Y-End (entered 4 instead of 400).
+P50;Base Chart;Axes Activity;0;500;0;0;3;Yes;43;Exited immediately after start.
+;Base Chart;Axes Activity;500;500;10;1;89;No;;"Excellent recovery; only one Y-increment error."
+;Line Chart;Point Plotting;500;500;10;0;34;No;;Highly accurate plotting.
+;Line Chart;Line Drawing;25;50;1;1;16;No;;Initial error in connecting all points.
+;Line Chart;Prepare 2nd Category;-25;50;0;1;17;No;;Exited to explanation after failing adjustment logic.
+;Line Chart;Point Plotting ;500;500;10;1;19;Yes;20;"Fast plotting; one minor click error."
+;Line Chart;Line Drawing ;50;50;1;0;7;No;;Perfect connection.
+;Line Chart;Prepare 2nd Category;50;50;1;0;5;No;;Correctly identified no adjustment needed.
+;Line Chart;2nd Point Plotting;500;500;10;1;33;No;;Consistent high performance.
+;Line Chart;2nd Line Drawing;50;50;1;0;8;No;;Finished level with perfect second run.
+;Area Chart;Intro (Aborted);50;50;1;0;15;No;;Completed intro then quit after $Y_{end}$ errors.
+;Area Chart;Area Comparison ;0;200;0;3;56;Yes;1;Struggled with $Y_{end}$values (75, 85, 80).
+;Area Chart;Intro ;50;50;1;0;2;No;;Quick completion.
+;Area Chart;Area Comparison;150;200;3;1;51;Yes;1;One $Y_{end}$ error before success.
+;Area Chart;Intro ;50;50;1;0;2;No;;Quit after missing $Y_{end}$ again.
+;Area Chart;Intro ;50;50;1;0;1;No;;Perfectionist run start.
+;Area Chart;Area Comparison;50;50;1;0;20;No;;Finally achieved perfect execution.
+;Stacked Area;First Stacking ;150;150;3;0;18;No;;Initial stacking logic correct.
+;Stacked Area;Point Plotting ;500;500;10;0;31;No;;Plotting was perfect before the abort.
+;Stacked Area;Line Drawing ;50;50;1;0;11;No;;Stacking category 2 complete.
+;Stacked Area;Stack 3rd;150;150;3;0;8;No;;Stacking category 3 complete.
+;Stacked Area;2nd Point Plotting;425;500;9;1;45;Yes;1;Quit after a point error and line drawing issues.
+;Stacked Area;First Stacking ;-25;150;0;1;15;No;;"Misclicked ""Yes"" and went to explanation."
+;Stacked Area;First Stacking ;150;150;3;1;45;No;;One $Y_{end}$ error.
+;Stacked Area;Point Plotting ;500;500;10;0;23;No;;High accuracy maintained.
+;Stacked Area;Line Drawing ;50;50;1;0;6;No;;Connected correctly.
+;Stacked Area;Stack 3rd;150;150;3;1;24;No;;One $Y_{end}$ error.
+;Stacked Area;2nd Point Plotting;500;500;10;0;42;No;;Flawless.
+;Stacked Area;2nd Line Drawing;50;50;1;0;6;No;;Finished level.
+;Misleading;Missing Years ;0;50;0;2;20;Yes;2;"Failed to find the missing years; went to explanation."
+;Misleading;Missing Years;50;50;1;0;27;No;;Successful run.
+;Misleading;Y-Axis Increment;50;50;1;0;42;No;;Careful observation led to success.
+;Misleading;Comparison Chart;25;50;1;1;5;No;;One miss before finding the Y-axis.
+;Misleading;Reversed Years;50;50;1;0;4;No;;Quick identification.
+;Misleading;Retry (Perfectionist);200;200;4;0;15;No;;Perfect Score. Redone to remove the 1 error.
+P51;Base Chart;Axes Activity;475;500;9;1;89s;No;;Misplaced Y-axis label once before correcting.
+;Line Chart ;Point Plotting;350;500;10;7;76s;No;;Heavy struggle clicking 2019, 100 point.
+;Line Chart ;Line Drawing;50;50;1;0;9s;No;;Perfect execution.
+;Line Chart ;Prepare Second Cat;200;150;3;1;39s;No;;Incorrect Y Increment (10 vs 50).
+;Line Chart ;2nd Point Plotting;500;500;10;1;28s;No;;One background click.
+;Line Chart ;2nd Line Drawing;-75;50;1;3;24s;No;;Multiple incomplete connections.
+;Line Chart ;Point Plotting;500;500;10;0;14s;No;;Drastic speed and accuracy improvement.
+;Line Chart ;Line Drawing;50;50;1;0;6s;No;;Rapid execution.
+;Line Chart ;Prepare Second Cat;-25;50;0;1;1s;No;;Misclicked if graph needs adjustment.
+;Line Chart ;2nd Point Plotting;500;500;10;1;29s;No;;Consistent with previous run.
+;Line Chart ;2nd Line Drawing;0;50;1;0;4s;No;;Low score noted in log despite success.
+;Area Chart;Introduction;50;50;1;0;7s;No;;Flawless area filling.
+;Area Chart;Area Comparison;200;200;4;0;26s;No;;High competency in scale matching.
+;Stacked Area ;First Stacking;25;100;1;1;113s;No;;Math struggle: 8 wrong Y-End attempts.
+;Stacked Area ;Point Plotting;500;500;10;1;25s;No;;Misclicked background once.
+;Stacked Area ;Line Drawing;50;50;1;0;5s;No;;Quick connection.
+;Stacked Area ;Stack Third Cat;100;100;2;0;16s;No;;Improved selection speed.
+;Stacked Area ;2nd Point Plotting;500;500;10;1;37s;No;;Misclicked background once.
+;Stacked Area ;2nd Line Drawing;50;50;1;0;6s;No;;Finished level successfully.
+;Misleading ;Missing Years;-25;50;1;5;70s;No;;Significant struggle identifying X-axis gaps.
+;Misleading ;Y Axis Increment;50;50;1;0;13s;No;;Quick identification.
+;Misleading ;Comparison Chart;50;50;1;0;6s;No;;Quick identification.
+;Misleading ;Reversed Years;-25;50;1;3;54s;No;;Confusion with X-axis temporal flow.
+;Misleading ;Missing Years;50;50;1;0;4s;No;;Instant identification .
+;Misleading ;Y Axis Increment;50;50;1;0;6s;No;;Instant identification .
+;Misleading ;Comparison Chart;50;50;1;0;1s;No;;Instant identification .
+;Misleading ;Reversed Years;50;50;1;0;3s;No;;Instant identification .
+;Stacked Area ;First Stacking;100;100;2;0;14s;No;;High speed improvement on replay.
+;Stacked Area ;Point Plotting;500;500;10;0;27s;No;;Zero errors.
+;Stacked Area ;Line Drawing;50;50;1;0;3s;No;;Zero errors.
+;Stacked Area ;Stack Third Cat;100;100;2;0;73s;No;;Math struggle: 3 wrong Y-End attempts.
+;Stacked Area ;2nd Point Plotting;500;500;10;1;58s;No;;Misclicked background once.
+;Stacked Area ;2nd Line Drawing;50;50;1;0;2s;No;;Finished with improved score.
+P52;Base Chart;Axes Activity;500;500;10;1;143;No;;"Smooth execution; only one minor slip on the Y-end label."
+;Line Chart;Point Plotting Activity;500;500;10;0;41;No;;Flawless and rapid point placement.
+;Line Chart;Line Drawing Activity;50;50;1;0;7;No;;Direct and accurate connection of points.
+;Line Chart;Prepare Second Category;200;150;4;0;50;No;;"Handled scaling for ""Among Us"" without any errors."
+;Line Chart;Second Point Plotting;500;500;10;0;37;No;;Perfectly placed points for the second data series.
+;Line Chart;Second Line Drawing;-125;50;1;8;68;No;;"Struggle Phase: Major difficulty with line connectivity; multiple failed attempts."
+;Area Chart;Introduction Activity;50;50;1;0;8;No;;Quick comprehension of the area fill mechanic.
+;Area Chart;Area Comparison;50;50;1;0;23;No;;Successfully identified and entered the Y-End value.
+;Stacked Area;First Stacking Activity;25;100;1;1;48;No;;"Misidentified if the graph was ready; correctly identified the Y-axis."
+;Stacked Area;Point Plotting Activity;500;500;10;0;59;No;;Solid plotting performance despite the complex stacked values.
+;Stacked Area;Line Drawing Activity;50;50;1;0;7;No;;No issues with line connectivity here.
+;Stacked Area;Stack Third Category;25;100;1;1;40;No;;Repeated the logic error regarding graph readiness.
+;Stacked Area;Second Point Plotting;500;500;10;0;49;No;;Consistent accuracy in plotting the third layer.
+;Stacked Area;Second Line Drawing;50;50;1;0;5;No;;Efficiently closed the level.
+;Misleading;Missing Years Chart;50;50;1;0;26;No;;Sharp eye for the missing gaps on the X-axis.
+;Misleading;Y Axis Increment Chart;50;50;1;0;8;No;;Quickly caught the non-linear Y-axis scaling.
+;Misleading;Comparison Chart;50;50;1;0;11;No;;Identified scale manipulation immediately.
+;Misleading;Reversed Years Chart;50;50;1;0;13;No;;Recognized the reversed temporal flow on the X-axis.
+P53;Base Chart;Axes Activity;N/A;500;4;2;26;Yes;4;Aborted early to return to explanation.
+;Base Chart;Axes Activity;475;500;9;1;79;No;;"One error on X-start label; otherwise solid."
+;Base Chart;Axes Activity;500;500;10;1;42;No;;"Replayed level to perfect score; 1 typo on increment."
+;Line Chart;Point Plotting;500;500;10;0;23;No;;Perfect execution.
+;Line Chart;Line Drawing ;25;50;1;1;12;No;;Initial struggle with connection completeness.
+;Line Chart;Prepare 2nd Category;-25;50;0;1;14;Yes;2;Misunderstood if graph needed adjustment.
+;Line Chart;Point Plotting;500;500;10;0;10;No;;Replayed after explanation return.
+;Line Chart;Line Drawing ;50;50;1;0;8;No;;Perfected the drawing.
+;Line Chart;Prepare 2nd Category;50;50;1;0;7;No;;Correctly identified no adjustment needed.
+;Line Chart;2nd Point Plotting;500;500;10;0;14;No;;Rapid and accurate plotting.
+;Line Chart;2nd Line Drawing;50;50;1;0;7;No;;Finished level with full score.
+;Area Chart;Introduction;50;50;1;0;7;No;;Simple area fill task completed.
+;Area Chart;Area Comparison ;175;200;4;1;24;Yes;2;Failed comparability logic, returned to explanation.
+;Area Chart;Area Comparison ;0;50;0;2;43;Yes;1;"Failed Y-End twice; level ended with low score."
+;Area Chart;Area Comparison ;100;100;2;0;13;No;;Replayed to master the comparability concept.
+;Stacked Area;First Stacking;100;100;2;0;12;No;;Calculated: +50 (No), +50 (Y Axis).
+;Stacked Area;Point Plotting;500;500;10;0;40;No;;Accurate placement of stacked points.
+;Stacked Area;Line Drawing;50;50;1;0;4;No;;Perfect line connection.
+;Stacked Area;Stack 3rd Category;25;100;1;2;25;No;;Calculated: -25 (Yes), +50 (Y Axis).
+;Stacked Area;2nd Point Plotting;500;500;10;0;41;No;;High accuracy on complex stacking.
+;Stacked Area;2nd Line Drawing;50;50;1;0;6;No;;Level finished successfully.
+;Misleading;Missing Years;25;50;1;1;29;Yes;2;One error before returning to explanation.
+;Misleading;Missing Years ;50;50;1;0;3;No;;Immediate correction.
+;Misleading;Y Axis Increment;50;50;1;0;9;No;;Correctly identified scaling error.
+;Misleading;Comparison Chart;50;50;1;0;4;No;;Quick detection of axis manipulation.
+;Misleading;Reversed Years;50;50;1;0;7;No;;Final task completed flawlessly.
+P54;Base Chart;Axes Activity;500;500;10;2;93;No;;"Struggled with Y-axis increment; tried 100 and 20 before succeeding with 50."
+;Line Chart;Point Plotting;500;500;10;2;59;No;;"Misclicks on 2016 and 2022; rapid recovery."
+;Line Chart;Line Drawing;50;50;1;0;6;No;;Accurate and quick connection.
+;Line Chart;Prepare 2nd Category;-25;50;0;1;9;No;;Logic error: believed the graph needed adjustment when it didn't.
+;Line Chart;2nd Point Plotting;500;500;10;0;21;No;;Perfect execution for the second data series.
+;Line Chart;2nd Line Drawing;50;50;1;0;4;No;;Direct completion.
+;Area Chart;Introduction ;50;50;1;0;3;No;;Immediate success with fill mechanic.
+;Area Chart;Area Comparison ;0;50;0;2;13;No;;"Failed Y-End input twice; level score was low."
+;Area Chart;Introduction ;50;50;1;0;2;No;;"Replayed level; consistent on fill."
+;Area Chart;Area Comparison ;50;50;1;0;9;No;;Correctly identified Y-End on the second attempt.
+;Stacked Area;First Stacking Activity;100;100;2;0;16;No;;Calculated: +50 (No), +50 (Y Axis).
+;Stacked Area;Point Plotting;425;500;10;3;39;No;;Calculated: $500 - (3 \times 25)$. Multiple background misclicks.
+;Stacked Area;Line Drawing;25;50;1;1;4;No;;Calculated: $50 - 25$ for incomplete connection.
+;Stacked Area;Stack 3rd Category;100;100;2;0;13;No;;Calculated: +50 (No), +50 (Y Axis).
+;Stacked Area;2nd Point Plotting;350;500;10;6;39;No;;Calculated: $500 - (6 \times 25)$. Significant difficulty clicking specific points.
+;Stacked Area;2nd Line Drawing;50;50;1;0;6;No;;Clean finish for the third category.
+;Misleading;Missing Years Chart;50;50;1;0;14;No;;Identified X-axis gap immediately.
+;Misleading;Y Axis Increment;50;50;1;0;10;No;;Caught non-linear scaling on Y-axis.
+;Misleading;Comparison Chart;50;50;1;0;6;No;;Recognized scale manipulation.
+;Misleading;Reversed Years;50;50;1;0;6;No;;Correctly identified reversed temporal flow.
+P55;Base Chart;Axes Activity;350;500;9;7;158;No;;"Significant struggle with Y-axis increment; 6 failed attempts."
+;Line Chart;Point Plotting Activity;500;500;10;0;41;No;;Perfect accuracy in plotting complex values.
+;Line Chart;Line Drawing Activity;25;50;1;1;18;No;;Initial attempt was incomplete.
+;Line Chart;Prepare Second Category;50;50;1;0;14;No;;Correctly identified no adjustment needed.
+;Line Chart;Second Point Plotting;500;500;10;1;32;No;;"One background misclick; rapid recovery."
+;Line Chart;Second Line Drawing;50;50;1;0;9;No;;Completed series successfully.
+;Area Chart;Introduction Activity;50;50;1;0;8;No;;Successful area fill on first try.
+;Area Chart;Area Comparison;200;200;4;0;42;No;;Handled comparability logic perfectly.
+;Stacked Area;First Stacking ;100;100;2;0;19;No;;Calculated: +50 (Ready?), +50 (Which part?).
+;Stacked Area;Point Plotting;500;500;10;0;38;No;;Accurate stacking of the second category.
+;Stacked Area;Line Drawing Activity;50;50;1;0;10;No;;Clean connection of stacked points.
+;Stacked Area;Stack Third ;100;100;2;0;22;No;;Calculated: +50 (Ready?), +50 (Which part?).
+;Stacked Area;Second Point Plotting;500;500;10;0;47;No;;High precision on third-tier stacking.
+;Stacked Area;Second Line Drawing;50;50;1;0;4;No;;Fast execution.
+;Misleading;Missing Years ;25;50;1;1;31;No;;"Misclicked ""FullGraph"" before finding X-axis gap."
+;Misleading;Y Axis Increment;50;50;1;0;11;No;;Recognized non-linear scale.
+;Misleading;Comparison Chart;50;50;1;0;6;No;;Identified Y-axis discrepancy.
+;Misleading;Reversed Years;50;50;1;0;6;No;;Recognized X-axis temporal reversal.
+;Base Chart;Axes Activity;500;500;10;1;47;No;;"Replayed to improve; 1 error on Y-increment."
+;Misleading;Missing Years ;50;50;1;0;5;No;;Perfected the gap identification.
+;Misleading;Y Axis Increment ;50;50;1;0;2;No;;Immediate identification.
+;Misleading;Comparison Chart ;50;50;1;0;3;No;;Immediate identification.
+;Misleading;Reversed Years ;50;50;1;0;3;No;;Immediate identification.
+P56;Base Chart;Axes Activity;500;500;10;0;87;No;;Perfect execution on first attempt.
+;Line Chart;Point Plotting;500;500;10;0;26;No;;High returns to explanation (7x) before starting tasks.
+;Line Chart;Line Drawing;50;50;1;0;5;No;;Correctly connected all points.
+;Line Chart;Prepare 2nd Category;200;150;4;0;32;No;;Bonus score for rounded Y-End/Increment values.
+;Line Chart;2nd Point Plotting;500;500;10;0;37;No;;Perfect execution for second series.
+;Line Chart;2nd Line Drawing;50;50;1;0;4;No;;Quick completion.
+;Area Chart;Introduction;50;50;1;0;7;No;;Successful area fill.
+;Area Chart;Area Comparison;50;50;1;0;17;No;;Correct Y-End entry.
+;Stacked Area;First Stacking ;100;100;2;0;14;No;;Calculated: +50 (Ready?), +50 (Part adjustment).
+;Stacked Area;Point Plotting;500;500;10;0;57;No;;High precision on the first stacked series.
+;Stacked Area;Line Drawing;50;50;1;0;3;No;;Immediate success.
+;Stacked Area;Stack Third ;100;100;2;0;15;No;;Calculated: +50 (Ready?), +50 (Part adjustment).
+;Stacked Area;2nd Point Plotting;475;500;10;1;65;No;;Calculated: 500−25 for 1 background misclick.
+;Stacked Area;2nd Line Drawing;25;50;1;1;1;No;;Calculated: 50−25 for initial incomplete connection.
+;Misleading;Missing Years ;-25;50;1;3;59;No;;Significant struggle identifying the X-axis gap.
+;Misleading;Y Axis Increment ;50;50;1;0;34;No;;Identified non-incremental scale correctly.
+;Misleading;Comparison Chart ;50;50;1;0;10;No;;Identified Y-axis scaling issue.
+;Misleading;Reversed Years ;25;50;1;1;14;No;;One misclick on full graph before X-axis.
+;Misleading;Missing Years ;50;50;1;0;3;No;;Replayed level: Immediate identification.
+;Misleading;Y Axis Increment ;50;50;1;0;14;No;;Replayed level: Consistent identification.
+;Misleading;Comparison Chart ;50;50;1;0;1;No;;Replayed level: Immediate identification.
+;Misleading;Reversed Years ;50;50;1;0;1;No;;Replayed level: Immediate identification.
+P57;Base Chart;Axes Activity;550;500;11;6;182;No;;Significant bonus points from repeated correct labeling. Struggled with Y-axis increments.
+;Area Chart;Introduction Activity ;50;50;1;0;17;No;;Quick successful completion.
+;Area Chart;Area Comparison ;25;50;1;1;37;No;;One error on Y End entering.
+;Misleading;Missing Years Chart;0;50;1;2;52;No;;Struggled to locate specific missing section on X-axis.
+;Misleading;Y Axis Increment Chart;50;50;1;0;38;No;;Accurate identification of non-linear scale.
+;Misleading;Comparison Chart;50;50;1;0;14;No;;Correctly identified Y-axis discrepancy.
+;Misleading;Reversed Years Chart;50;50;1;0;16;No;;Identified temporal reversal on X-axis.
+;Line Chart;Point Plotting Activity;500;500;10;1;77;No;;"Returned to explanation after start; one misclick on plotting."
+;Line Chart;Line Drawing Activity;25;50;1;1;12;No;;Points connected out of order initially.
+;Line Chart;Prepare Second Category;-25;50;0;1;6;No;;Incorrectly identified graph adjustment needs.
+;Line Chart;Second Point Plotting;500;500;10;0;41;No;;Perfect execution on the second series.
+;Line Chart;Second Line Drawing;50;50;1;0;12;No;;Clean completion.
+;Area Chart;Introduction Activity ;50;50;1;0;4;No;;Replayed level to improve accuracy.
+;Area Chart;Area Comparison ;175;200;4;1;62;No;;Handled the more complex comparability logic with one error.
+;Stacked Area;First Stacking Activity;50;100;2;4;48;Yes;18;Calculated: +50 (Graph part), -50 (Ready? & Y-End errors). High frustration/repeats.
+;Stacked Area;Point Plotting Activity;300;500;10;8;62;No;;Calculated: 500−(8×25). Heavy clicking around one specific point.
+;Stacked Area;Line Drawing Activity;50;50;1;0;6;No;;Correct connection.
+;Stacked Area;Stack Third Category;100;100;2;0;11;No;;Calculated: +50 (Ready?), +50 (Part adjustment).
+;Stacked Area;Second Point Plotting;475;500;10;1;47;No;;Calculated: 500−25. High precision on third tier.
+;Stacked Area;Second Line Drawing;50;50;1;0;5;No;;Finalizing the stack successfully.
+P58;Base Chart;Axes Activity;500;500;15;6;267;0;;Significant errors with X-start and Y-start labels.
+;Line Chart;Point Plotting;0;500;2;5;35;Yes;2;"Failed attempt; exited to explanation after multiple errors."
+;Line Chart;Point Plotting;500;500;10;1;25;Yes;11;"Improved performance; one misclick on background."
+;Line Chart;Line Drawing;50;50;1;0;7;No;;Perfect connection.
+;Line Chart;Prepare Second Category;-25;50;0;1;11;Yes;3;Failed to identify graph adjustment needs.
+;Line Chart;Point Plotting ;500;500;10;0;14;No;;Fast and accurate after explanation review.
+;Line Chart;Line Drawing;50;50;1;0;5;No;;Consistent performance.
+;Line Chart;Prepare Second Category;-25;50;0;1;17;No;;"Struggled with ""Genshin Impact"" adjustment logic."
+;Line Chart;Second Point Plotting;500;500;10;1;43;No;;One background misclick.
+;Line Chart;Second Line Drawing;50;50;1;0;12;No;;Completed successfully.
+;Area Chart;Introduction Activity;50;50;1;0;7;No;;Efficient completion.
+;Area Chart;Area Comparison;50;50;1;0;5;No;;No comparability question required.
+;Stacked Area;First Stacking Activity ;25;100;1;3;35;No;;"Correct part identified after failing ""Ready"" prompt."
+;Stacked Area;Point Plotting Activity ;300;500;10;8;50;No;;High error rate (8 background/wrong point clicks).
+;Stacked Area;Line Drawing Activity;50;50;1;0;27;No;;Slow but correct connection.
+;Stacked Area;Stack Third Category;25;100;1;1;13;No;;"Failed ""Ready"" check, but found correct part."
+;Stacked Area;Second Point Plotting;425;500;10;3;25;No;;Calculated: 500−(3×25).
+;Stacked Area;Second Line Drawing;50;50;1;0;6;Yes;1;Efficient completion.
+;Stacked Area;First Stacking Activity ;100;100;2;0;6;No;;Perfect identification of readiness and Y-axis.
+;Stacked Area;Point Plotting Activity ;350;500;10;6;81;No;;Significant struggle with point 2020.
+;Stacked Area;Line Drawing Activity;50;50;1;0;5;No;;Efficient.
+;Stacked Area;Stack Third Category;100;100;2;0;13;No;;Perfect execution on 3rd tier.
+;Stacked Area;Second Point Plotting;475;500;10;1;40;No;;Only one error on 2022 point.
+;Stacked Area;Second Line Drawing;50;50;1;0;4;No;;Efficient.
+;Misleading;Years Missing Chart;50;50;1;0;20;No;;Quick identification of X-axis gaps.
+;Misleading;Y Axis Increment Chart;50;50;1;0;30;No;;Identified non-linear Y-axis scale.
+;Misleading;Comparison Chart;50;50;1;0;8;No;;Fast detection of Y-axis issues.
+;Misleading;Reversed Years Chart;50;50;1;0;14;No;;Accurate identification.
+;Base Chart;Axes Activity;0;500;4;3;83;Yes;1;Session reset shortly after multiple X-start errors.
+P59;Base Chart;Axes Activity;450;500;10;4;130;No;;Struggled with X-axis increment and Y-axis labels.
+;Line Chart;Point Plotting;500;500;10;0;52;No;;Perfect accuracy on first plotting task.
+;Line Chart;Line Drawing;50;50;1;0;9;No;;Quick and correct connection.
+;Line Chart;Prepare Second Category;50;50;1;0;17;No;;Correctly identified that no adjustment was needed.
+;Line Chart;Second Point Plotting;500;500;10;0;55;No;;Maintained perfect accuracy for the second series.
+;Line Chart;Second Line Drawing;50;50;1;0;25;No;;Successful connection.
+;Area Chart;Introduction ;50;50;1;0;29;No;;Successfully filled the area.
+;Area Chart;Area Comparison ;50;200;1;0;25;No;;Completed Y-End but level failed overall score.
+;Area Chart;Introduction ;50;50;1;0;1;No;;Instant completion on replay.
+;Area Chart;Area Comparison ;50;50;1;0;7;No;;Quick verification of Y-End.
+;Stacked Area;First Stacking;100;100;2;0;20;No;;Score: +50 (Ready), +50 (Part). Y-End entries ignored as per rules.
+;Stacked Area;Point Plotting;325;500;10;7;159;No;;Score: 500 - (7 * 25). Heavy struggle clicking the 2017/2020 points.
+;Stacked Area;Line Drawing;50;50;1;0;5;No;;Fast execution.
+;Stacked Area;Stack Third Category;100;100;2;0;13;No;;Score: +50 (Ready), +50 (Part).
+;Stacked Area;Second Point Plotting;500;500;10;0;108;No;;Perfect plotting on the third stack level.
+;Stacked Area;Second Line Drawing;50;50;1;0;5;No;;Fast execution.
+;Misleading;Missing Years Chart;0;50;1;2;68;No;;Multiple misclicks before finding the X-axis gap.
+;Misleading;Y Axis Increment Chart;50;50;1;0;35;No;;Correctly identified scale issue.
+;Misleading;Comparison Chart;50;50;1;0;3;No;;Very fast identification.
+;Misleading;Reversed Years Chart;50;50;1;0;5;No;;Very fast identification.
+P60;Base Chart;Axes Activity;475;500;11;2;164;No;;Struggled briefly with Y-start and Y-increment.
+;Line Chart;Point Plotting;500;500;10;1;58;No;;One background misclick before first point.
+;Line Chart;Line Drawing;25;50;1;1;11;No;;Failed first connection attempt.
+;Line Chart;Prepare Second Category;50;50;1;0;12;No;;Correctly identified no adjustment needed.
+;Line Chart;Second Point Plotting;500;500;10;0;27;No;;Perfect and fast plotting.
+;Line Chart;Second Line Drawing;-50;50;1;2;33;No;;Multiple background clicks during drawing.
+;Area Chart;Introduction Activity;50;50;1;0;8;No;;Efficient execution.
+;Area Chart;Area Comparison;50;50;1;0;108;No;;Very long pause before entering Y-End.
+;Stacked Area;First Stacking Activity;100;100;2;0;27;No;;Identified readiness and Y-Axis correctly.
+;Stacked Area;Point Plotting Activity;500;500;10;0;73;No;;Perfect accuracy on first stack.
+;Stacked Area;Line Drawing Activity;50;50;1;0;10;No;;Correct connection.
+;Stacked Area;Stack Third Category;100;100;2;0;12;No;;Quick identification of 3rd category needs.
+;Stacked Area;Second Point Plotting;500;500;10;0;90;No;;Maintained perfect accuracy.
+;Stacked Area;Second Line Drawing;50;50;1;0;11;No;;Correct connection.
+;Misleading;Years Missing Chart;50;50;1;0;34;No;;Correctly spotted X-axis gap.
+;Misleading;Y Axis Increment Chart;50;50;1;0;37;No;;Spotted non-linear scale.
+;Misleading;Comparison Chart;50;50;1;0;15;No;;Efficient identification.
+;Misleading;Reversed Years Chart;50;50;1;0;15;No;;Spotted reversed chronological order.
+;Base Chart;Axes Activity;500;500;11;0;118;No;;"Replayed after session reset; perfect run."
+;Line Chart;Point Plotting;500;500;10;0;28;No;;Improved speed significantly.
+;Line Chart;Line Drawing ;50;50;1;0;7;No;;Perfect connection.
+;Line Chart;Prepare Second Category;200;150;3;0;37;No;;Handled complex Y-End/Increment changes.
+;Line Chart;Second Point Plotting;500;500;10;0;37;No;;Consistent perfect plotting.
+;Line Chart;Second Line Drawing;50;50;1;0;5;No;;Clean execution.
+;Area Chart;Introduction ;50;50;1;0;4;No;;Fast replay.
+;Area Chart;Area Comparison ;50;50;1;0;19;No;;Faster than first attempt.
+;Stacked Area;First Stacking ;25;100;1;1;22;No;;Failed initial readiness check.
+P61;Base Chart;Axes Activity;500;500;11;0;178;No;;"Methodical progress; handled rounding correctly."
+;Line Chart;Point Plotting;500;500;10;3;68;No;;Misclicked background three times during plotting.
+;Line Chart;Line Drawing;50;50;1;0;7;No;;Fast and accurate.
+;Line Chart;Prepare Second Category;50;50;1;0;13;No;;Correctly identified no adjustment needed.
+;Line Chart;Second Point Plotting;500;500;10;0;45;No;;Perfect accuracy on second series.
+;Line Chart;Second Line Drawing;50;50;1;0;7;No;;Correct connection.
+;Area Chart;Introduction ;50;50;1;0;9;No;;Quick area fill.
+;Area Chart;Area Comparison ;25;200;4;6;186;No;;Heavy struggle with Y-End values and comparability logic.
+;Area Chart;Introduction ;50;50;1;0;6;No;;Replayed successfully.
+;Area Chart;Area Comparison ;50;50;1;0;12;No;;Much faster on second attempt.
+;Stacked Area;First Stacking ;100;100;2;0;23;No;;Correct readiness and part selection.
+;Stacked Area;Point Plotting ;450;500;10;2;99;No;;Misclicked background twice (500−2×25).
+;Stacked Area;Line Drawing ;100;100;2;0;6;No;;Successfully connected points.
+;Stacked Area;Stack 3rd Cat;100;100;2;0;14;No;;Correct Y-axis adjustment.
+;Stacked Area;2nd Plotting;475;500;10;1;91;No;;One background error.
+;Stacked Area;2nd Drawing;50;50;1;0;5;No;;Correct connection.
+;Stacked Area;First Stacking ;100;100;2;0;7;No;;Very fast re-stacking.
+;Stacked Area;Point Plotting ;500;500;10;0;22;No;;Perfect plotting accuracy.
+;Stacked Area;Line Drawing ;100;100;2;0;7;No;;Quick connection.
+;Stacked Area;Stack 3rd Cat;100;100;2;0;6;No;;Quick adjustment.
+;Stacked Area;2nd Plotting;475;500;10;1;60;No;;One background error near the end.
+;Stacked Area;2nd Drawing;25;50;1;1;13;No;;Initial unordered connection attempt.
+;Misleading;Years Missing Chart;50;50;1;0;17;No;;Spotted X-axis gap immediately.
+;Misleading;Y Axis Increment;50;50;1;0;13;No;;Spotted non-linear scale.
+;Misleading;Comparison Chart;50;50;1;0;6;No;;Correct identification.
+;Misleading;Reversed Years Chart;50;50;1;0;11;No;;Spotted reversed X-axis order.
+;Stacked Area;First Stacking ;50;100;2;1;14;No;;Misclicked GraphStart first (100−2×25).
+;Stacked Area;Point Plotting ;425;500;10;3;59;No;;Multiple background misclicks.
+;Stacked Area;Line Drawing ;100;100;2;0;6;No;;Correct.
+;Stacked Area;Stack 3rd Cat;100;100;2;0;8;No;;Correct.
+;Stacked Area;2nd Plotting;475;500;10;1;27;No;;One background error.
+;Stacked Area;2nd Drawing;50;50;1;0;5;No;;Correct.
+;Stacked Area;First Stacking ;100;100;2;0;6;No;;Clean run.
+;Stacked Area;Point Plotting ;500;500;10;0;21;No;;Perfect.
+;Stacked Area;Line Drawing ;75;100;2;1;12;No;;One incomplete connection attempt.
+P62;Base Chart;Axes Activity;475;500;9;2;143;No;;Failed initial axis creation and one Y-increment input.
+;Line Chart;Point Plotting ;475;500;10;4;71;No;;4 background misclicks.
+;Line Chart;Line Drawing ;50;50;1;0;7;No;;Perfect execution.
+;Line Chart;Prepare Second Category ;0;50;0;1;3;Yes;4;"Failed logic check; returned to explanation."
+;Line Chart;Point Plotting ;500;500;10;0;41;No;;Clean replay after explanation.
+;Line Chart;Line Drawing ;50;50;1;0;4;No;;Clean replay.
+;Line Chart;Prepare Second Category ;-450;50;1;20;134;Yes;3;Corrected logic but failed 19 times to click the correct graph part.
+;Area Chart;Introduction Activity;50;50;1;0;9;No;;Quick success.
+;Area Chart;Area Comparison Activity;50;50;1;0;15;No;;Entered Y-End (400) correctly.
+;Line Chart;Point Plotting ;500;500;10;0;65;No;;"Replayed level; perfect points."
+;Line Chart;Line Drawing ;50;50;1;0;5;No;;Replayed level.
+;Line Chart;Prepare Second Category ;25;50;0;1;12;No;;Identified adjustment but missed logic check.
+;Line Chart;Second Point Plotting;500;500;10;0;39;No;;Perfect accuracy on second series.
+;Line Chart;Second Line Drawing;25;50;1;1;16;No;;One incomplete connection before finishing.
+;Stacked Area;First Stacking ;-225;100;2;17;92;Yes;55;Struggled significantly with clicking Y-axis (14 errors).
+;Stacked Area;First Stacking ;100;100;2;0;19;No;;Corrected behavior after explanation.
+;Stacked Area;Point Plotting ;425;500;10;3;55;No;;3 background misclicks.
+;Stacked Area;Line Drawing ;50;50;1;0;6;No;;Correct.
+;Stacked Area;Stack Third Category;-25;100;2;5;63;No;;Correct logic/part, but 5 failed Y-End attempts.
+;Stacked Area;Second Point Plotting;350;500;10;6;81;No;;Struggled with 2024 point plotting (5 errors).
+;Stacked Area;Second Line Drawing;50;50;1;0;6;No;;Correct.
+;Misleading;Years Missing Chart;0;50;1;2;43;No;;Found part after 2 errors.
+;Misleading;Y Axis Increment Chart;50;50;1;0;40;No;;Correctly identified Y-axis.
+;Misleading;Comparison Chart;-125;50;1;7;52;No;;Significant clicking errors before success.
+;Misleading;Reversed Years Chart;50;50;1;0;41;No;;Correct.
+;Base Chart;Axes Activity;425;500;11;3;104;No;;"Replayed after reset; 3 input errors on labels."
+;Line Chart;Point Plotting ;500;500;10;0;22;No;;Perfect plotting.
+;Line Chart;Line Drawing ;50;50;1;0;4;No;;Perfect line.
+;Line Chart;Prepare Second Category ;0;50;2;5;86;Yes;11;"Found part/Y-End but failed increment logic; returned to explanation."
+P63;Base Chart;Axes Activity;450;500;10;3;149;No;;Struggles with Y-axis label marking and Y-increment entry.
+;Line Chart;Point Plotting Activity;500;500;10;2;49;No;;Minor misclicks for years 2020 and 2022.
+;Line Chart;Line Drawing Activity;0;50;1;2;24;No;;Multiple incomplete connections attempted before success.
+;Line Chart;Prepare Second Category;200;150;4;0;41;No;;Bonus score achieved for perfect adjustment of all parameters.
+;Line Chart;Second Point Plotting Activity;500;500;10;0;42;No;;Perfect plotting for the second category.
+;Line Chart;Second Line Drawing Activity;-100;50;1;6;121;No;;Significant difficulty with line connections and misclicks.
+;Area Chart;Introduction Activity;50;50;1;0;7;No;;Quick successful area fill.
+;Area Chart;Area Comparison Activity;50;50;1;0;9;No;;Correctly identified Y-End and comparability.
+;Stacked Area;First Stacking Activity ;150;150;3;2;110;No;;Correct logic and part, but two failed Y-End entries.
+;Stacked Area;Point Plotting Activity ;-225;500;6;21;183;No;;Level restarted due to excessive background misclicks.
+;Stacked Area;First Stacking Activity ;150;150;3;0;31;No;;Clean execution on the second attempt.
+;Stacked Area;Point Plotting Activity ;300;500;10;8;136;No;;Continued difficulty with plotting accuracy (8 errors).
+;Stacked Area;Line Drawing Activity;50;50;1;0;6;No;;Perfect line drawing.
+;Stacked Area;Stack Third Category Activity;75;150;2;1;69;No;;Incorrect logic check (identified as ready incorrectly).
+;Stacked Area;Second Point Plotting Activity;500;500;10;0;95;No;;Perfect plotting for the third series.
+;Stacked Area;Second Line Drawing Activity;50;50;1;0;4;No;;Perfect line drawing.
+;Misleading;Years Missing Chart;50;50;1;0;17;No;;Correctly identified missing X-axis years.
+;Misleading;Y Axis Increment Chart;50;50;1;0;8;No;;Correctly identified non-linear Y-axis scale.
+;Misleading;Comparison Chart;25;50;1;1;7;No;;One misclick on full graph before identifying Y-axis issue.
+;Misleading;Reversed Years Chart;50;50;1;0;4;No;;Correctly identified reversed X-axis order.
+P64;Base Chart;Axes Activity;475;500;9;2;88;No;;Initial errors on X-axis label and Y-end.
+;Line Chart;Point Plotting ;125;500;5;6;47;Yes;15;"Failed to locate 2020 point; exited to explanation."
+;Line Chart;Point Plotting ;500;500;10;1;25;No;;"Much faster; only 1 misclick on background."
+;Line Chart;Line Drawing ;50;50;1;0;10;No;;All points connected successfully.
+;Line Chart;Prepare Second Category ;-50;150;0;2;23;Yes;2;"Struggled with graph adjustment logic; exited."
+;Line Chart;Point Plotting ;500;500;10;0;12;No;;Perfect execution.
+;Line Chart;Line Drawing ;50;50;1;0;7;No;;Quick completion.
+;Line Chart;Prepare Second Category ;200;150;4;1;41;No;;Corrected Y-increment on second try.
+;Line Chart;Second Point Plotting;500;500;10;0;26;No;;Perfect execution.
+;Line Chart;Second Line Drawing;-25;50;1;1;21;No;;Initially incomplete connection.
+;Area Chart;Introduction Activity;50;50;1;0;9;No;;Simple area fill task.
+;Area Chart;Area Comparison Activity;50;50;1;0;34;No;;Identified Y-end match.
+;Stacked Area;First Stacking ;-50;150;1;4;53;Yes;25;"Multiple failed attempts at Y-end; exited."
+;Stacked Area;First Stacking ;100;150;2;0;36;No;;Correctly identified graph adjustment and Y-end.
+;Stacked Area;Point Plotting;425;500;10;3;131;No;;Several background misclicks during plotting.
+;Stacked Area;Line Drawing;50;50;1;0;5;No;;Minecraft category connected.
+;Stacked Area;Stack Third Category;75;150;2;1;35;No;;One mistake entering the Y-end.
+;Stacked Area;Second Point Plotting;425;500;10;3;92;No;;Miscclicks on background/points.
+;Stacked Area;Second Line Drawing;50;50;1;0;4;No;;PubG category connected.
+;Misleading;Years Missing Chart ;50;50;1;0;13;Yes;2;"Found X-axis gap; returned to explanation."
+;Misleading;Years Missing Chart ;50;50;1;0;3;No;;Immediate success.
+;Misleading;Y Axis Increment Chart;50;50;1;0;16;No;;Identified non-incremental axis.
+;Misleading;Comparison Chart ;25;50;1;1;15;No;;One misclick on X-axis first.
+;Misleading;Reversed Years Chart ;50;50;1;0;8;No;;Quick detection.
+;Misleading;Years Missing Chart ;50;50;1;0;3;No;;Repeated for 100% run.
+;Misleading;Y Axis Increment Chart ;50;50;1;0;3;No;;Repeated for 100% run.
+;Misleading;Comparison Chart ;50;50;1;0;2;No;;Corrected previous mistake.
+;Misleading;Reversed Years Chart ;50;50;1;0;3;No;;Repeated for 100% run.
+P65;Base Chart;Axes Activity;400;500;8;7;215;No;;Struggled with X-axis increment and Y-end labels.
+;Line Chart;Point Plotting Activity;500;500;10;2;83;No;;One wrong point and one background click.
+;Line Chart;Line Drawing Activity;50;50;1;0;11;No;;Successfully connected all points.
+;Line Chart;Prepare Second Category;50;50;1;0;15;No;;Correctly identified no adjustment needed.
+;Line Chart;2nd Point Plotting;500;500;10;1;45;No;;High accuracy on 1970/2022 points.
+;Line Chart;2nd Line Drawing;50;50;1;0;13;No;;Correct connection created.
+;Area Chart;Introduction Activity;50;50;1;0;13;No;;Successfully filled the area.
+;Area Chart;Area Comparison;-100;50;1;6;85;No;;Failed level. Repeatedly entered wrong Y-end.
+;Area Chart;Introduction ;50;50;1;0;7;No;;Quick replay.
+;Area Chart;Area Comparison ;50;50;1;0;5;No;;Correctly entered 90.
+;Stacked Area;First Stacking ;-75;150;1;9;143;Yes;9;"Multiple Y-end errors; exited to explanation."
+;Stacked Area;First Stacking ;150;150;3;0;4;No;;Perfect on the second attempt.
+;Stacked Area;Point Plotting Activity;450;500;10;2;118;No;;Two background misclicks at the final point.
+;Stacked Area;Line Drawing Activity;50;50;1;0;6;No;;"Points for ""Pokemon Go"" connected."
+;Stacked Area;Stack Third Category;100;150;2;0;8;No;;Correctly skipped adjustment & found axis.
+;Stacked Area;2nd Point Plotting;325;500;10;7;152;No;;Significant trouble with coordinates 2021-2024.
+;Stacked Area;2nd Line Drawing;-175;50;1;9;11;No;;"Nine ""Incomplete connection"" errors."
+;Misleading;Years Missing Chart;50;50;1;0;33;No;;Identified X-axis gap.
+;Misleading;Y Axis Increment Chart;0;50;1;3;47;No;;Clicked full graph twice before finding axis.
+;Misleading;Comparison Chart;50;50;1;0;19;No;;Found Y-axis mismatch.
+;Misleading;Reversed Years Chart;50;50;1;0;20;No;;Found X-axis reversal.
+;Misleading;Years Missing ;50;50;1;0;4;No;;Restarted level immediately.
+;Misleading;Y Axis Increment ;0;50;0;0;2;No;;Session reset/interrupted.
+P66;Base Chart;Axes Activity;500;500;9;0;105;No;;Perfect execution on first level.
+;Line Chart;Point Plotting Activity;500;500;10;1;49;No;;One misclick on the first point.
+;Line Chart;Line Drawing Activity;50;50;1;0;10;No;;Successfully connected points.
+;Line Chart;Prepare Second Category;200;150;3;1;87;No;;"Entered Y-end correctly; wrong Y-increment once."
+;Line Chart;2nd Point Plotting;500;500;10;0;41;No;;Perfect plotting.
+;Line Chart;2nd Line Drawing;-25;50;1;1;17;No;;One incomplete connection attempt.
+;Area Chart;Introduction Activity;50;50;1;0;9;No;;Simple area fill task.
+;Area Chart;Area Comparison Activity;50;50;1;0;18;No;;Correctly identified Y-end.
+;Stacked Area;First Stacking Activity;100;150;2;0;46;No;;Identified graph ready & clicked Y-axis.
+;Stacked Area;Point Plotting Activity;500;500;10;0;68;No;;Perfect point placement.
+;Stacked Area;Line Drawing Activity;50;50;1;0;7;No;;Fortnite category connected.
+;Stacked Area;Stack Third Category;100;150;2;0;35;No;;Identified graph ready & clicked Y-axis.
+;Stacked Area;2nd Point Plotting;500;500;10;0;175;No;;Slow but precise plotting.
+;Stacked Area;2nd Line Drawing;50;50;1;0;7;No;;Minecraft category connected.
+;Misleading;Years Missing Chart;25;50;1;1;19;No;;Misclicked full graph once.
+;Misleading;Y Axis Increment Chart;50;50;1;0;57;No;;Found the non-incremental axis.
+;Misleading;Comparison Chart;50;50;1;0;8;No;;Quick Y-axis identification.
+;Misleading;Reversed Years Chart;50;50;1;0;11;No;;Quick X-axis identification.
+;Misleading;Years Missing ;50;50;1;0;5;No;;Improved previous mistake.
+;Misleading;Y Axis Increment ;50;50;1;0;2;No;;Very fast replay.
+;Misleading;Comparison Chart ;50;50;1;0;2;No;;Very fast replay.
+;Misleading;Reversed Years ;50;50;1;0;2;No;;Very fast replay.
+P67;Base Chart;Axes Activity;500;500;11;11;258;Yes;1;"Repeatedly entered ""1015"" for X-start instead of ""2015""."
+;Line Chart;Point Plotting Activity;225;500;10;13;117;No;;High error rate clicking the background while trying to plot (2016).
+;Line Chart;Line Drawing Activity;50;50;1;0;9;No;;Successfully connected all points.
+;Line Chart;Prepare Second Category;50;50;1;0;13;No;;Correctly identified no adjustment needed.
+;Line Chart;2nd Point Plotting;500;500;10;1;39;No;;Much higher precision than the first plotting activity.
+;Line Chart;2nd Line Drawing;50;50;1;0;11;No;;Correct connection created.
+;Area Chart;Introduction Activity;50;50;1;0;9;No;;Area filled successfully.
+;Area Chart;Area Comparison ;-100;200;2;4;165;Yes;1;Level Failed. Struggled with Y-End and comparability choice.
+;Area Chart;Introduction ;50;50;1;0;3;No;;Quick replay.
+;Area Chart;Area Comparison ;25;50;1;1;27;No;;Improved on second attempt after returning to explanation.
+;Stacked Area;First Stacking;25;150;1;1;16;No;;Correct axis clicked but initially said graph was ready.
+;Stacked Area;Point Plotting;475;500;10;1;95;No;;One background misclick at 2019.
+;Stacked Area;Line Drawing;50;50;1;0;4;No;;Points correctly connected.
+;Stacked Area;Stack Third;25;150;1;1;13;No;;Correct axis clicked after initially saying graph was ready.
+;Stacked Area;2nd Point Plotting;400;500;10;4;38;No;;Several misclicks/wrong points in the 2019-2023 range.
+;Stacked Area;2nd Line Drawing;50;50;1;0;3;No;;Points correctly connected.
+;Misleading;Years Missing;-50;50;1;4;59;No;;"Repeatedly clicked ""FullGraph"" before finding X-axis."
+;Misleading;Y Axis Increment;-25;50;1;3;31;No;;Misidentified parts of the axis before the correct answer.
+;Misleading;Comparison Chart;50;50;1;0;9;No;;Found Y-axis immediately.
+;Misleading;Reversed Years;-25;50;1;3;29;No;;Misclicked FullGraph and Y-Axis before finding X-axis.
+;Misleading;Years Missing ;50;50;1;0;4;No;;Replay: Found immediately.
+;Misleading;Y Axis Increment ;50;50;1;0;2;No;;Replay: Found immediately.
+;Misleading;Comparison Chart ;50;50;1;0;2;No;;Replay: Found immediately.
+;Misleading;Reversed Years ;25;50;1;1;5;No;;Replay: One misclick on Y-axis.
+P68;Base Chart;Axes Activity;500;500;9;1;171;No;;Entered 80 for Y-end initially before correcting to 30.
+;Line Chart;Point Plotting Activity;500;500;10;0;39;No;;Perfect plotting execution.
+;Line Chart;Line Drawing Activity;0;50;1;2;8;No;;Two failed attempts before connecting all points.
+;Line Chart;Prepare Second Category;150;150;3;2;76;No;;Misclicked X-axis and GraphStart before finding Y-axis.
+;Line Chart;2nd Point Plotting;500;500;10;1;31;No;;One background misclick.
+;Line Chart;2nd Line Drawing;-25;50;1;1;22;No;;One incomplete connection attempt.
+;Area Chart;Introduction Activity;50;50;1;0;6;No;;Quick successful area fill.
+;Area Chart;Area Comparison Activity;50;50;1;0;16;No;;Correctly identified Y-end consistency.
+;Stacked Area;First Stacking Activity;100;150;2;0;43;No;;Identified graph not ready and clicked Y-axis.
+;Stacked Area;Point Plotting Activity;475;500;10;1;33;No;;One background misclick at 2022.
+;Stacked Area;Line Drawing Activity;50;50;1;0;33;No;;Successful connection for Fall Guys.
+;Stacked Area;Stack Third Category;50;150;1;1;103;No;;Incorrectly clicked 'Yes' initially.
+;Stacked Area;2nd Point Plotting;325;500;10;7;132;No;;Heavy clicking errors around the 2022 point.
+;Stacked Area;2nd Line Drawing;50;50;1;0;103;No;;Successful connection for Fortnite.
+;Misleading;Years Missing Chart;50;50;1;0;7;No;;Quick identification of X-axis.
+;Misleading;Y Axis Increment Chart;50;50;1;0;13;No;;Correctly identified Y-axis scale error.
+;Misleading;Comparison Chart;50;50;1;1;19;No;;Misclicked FullGraph once.
+;Misleading;Reversed Years Chart;50;50;1;0;13;No;;Correctly identified X-axis reversal.
+;Misleading;Years Missing ;50;50;1;0;2;No;;Near-instant correct click.
+;Misleading;Y Axis Increment ;50;50;1;0;4;No;;Very fast replay.
+;Misleading;Comparison Chart ;50;50;1;0;2;No;;Improved from previous attempt.
+;Misleading;Reversed Years ;50;50;1;0;5;No;;Confirmed mastery.
+P69;Base Chart;Axes Activity;625;500;10;3;158;No;;Bonus points logic applied in logs. Struggled with axis increments.
+;Line Chart;Point Plotting Activity;500;500;10;1;27;No;;"High accuracy; one background misclick at 2022."
+;Line Chart;Line Drawing Activity;50;50;1;0;9;No;;Points connected successfully on first attempt.
+;Line Chart;Prepare Second Category;175;150;3;2;42;No;;Misclicked X-axis and entered one incorrect Y-end (600).
+;Line Chart;2nd Point Plotting;500;500;10;1;68;No;;One background misclick at 2023.
+;Line Chart;2nd Line Drawing;50;50;1;0;6;No;;Correct connection created.
+;Area Chart;Introduction Activity;50;50;1;0;19;No;;Successfully filled area after 3 hand animations.
+;Area Chart;Area Comparison Activity;50;50;1;0;16;No;;No comparability issues encountered.
+;Stacked Area;First Stacking Activity;100;150;2;0;15;No;;Correctly identified graph needs adjustment (Y-axis).
+;Stacked Area;Point Plotting Activity;475;500;10;1;32;No;;One background misclick at 2019.
+;Stacked Area;Line Drawing Activity;50;50;1;0;7;No;;Category 'Pokemon Go' correctly connected.
+;Stacked Area;Stack Third Category;100;150;2;0;8;No;;Fast identification of Y-axis adjustment.
+;Stacked Area;2nd Point Plotting;450;500;10;2;55;No;;Background misclick and wrong point at 2016/2017.
+;Stacked Area;2nd Line Drawing;50;50;1;0;6;No;;Category 'PubG' correctly connected.
+;Misleading;Years Missing Chart;50;50;1;0;9;No;;Identified X-axis error quickly.
+;Misleading;Y Axis Increment Chart;50;50;1;0;13;No;;Correct identification of non-incremental Y-axis.
+;Misleading;Comparison Chart;50;50;1;0;13;No;;Correct identification of Y-axis discrepancy.
+;Misleading;Reversed Years Chart;50;50;1;0;6;No;;Found X-axis reversal immediately.
+;Misleading;Years Missing ;50;50;1;0;5;No;;Replay 1: Maintained accuracy.
+;Misleading;Y Axis Increment ;50;50;1;0;4;No;;Replay 1: Very fast response.
+;Misleading;Comparison Chart ;50;50;1;0;4;No;;Replay 1: Fast response.
+;Misleading;Reversed Years ;25;50;1;1;2;No;;Replay 1: Misclicked Y-axis first.
+;Misleading;Years Missing ;50;50;1;0;3;No;;Replay 2: High speed.
+;Misleading;Y Axis Increment ;50;50;1;0;2;No;;Replay 2: High speed.
+;Misleading;Comparison Chart ;50;50;1;0;5;No;;Replay 2: Consistent accuracy.
+;Misleading;Reversed Years ;0;50;1;2;3;No;;Replay 2: Multiple misclicks (FullGraph/YAxis).
+P70;Base Chart;Axes Activity;225;500;8;13;379;Yes;60;Significant difficulty with Y-axis increments (8 failed attempts).
+;Line Chart;Point Plotting Activity;350;500;10;10;135;No;;Struggled significantly with the 2021, 76 point (9 errors).
+;Line Chart;Line Drawing Activity;50;50;1;0;10;Yes;5;Fast and accurate connection.
+;Area Chart;Introduction Activity;50;50;1;0;10;No;;Simple area fill task completed quickly.
+;Area Chart;Area Comparison Activity;75;200;4;3;149;No;;Correctly identified non-comparability but struggled with Y-end adjustment.
+;Stacked Area;First Stacking Activity;-75;150;1;5;57;No;;"Incorrectly thought graph was ready; misclicked several graph parts."
+;Stacked Area;Point Plotting Activity;50;500;10;18;216;No;;Extremely high error rate (14 errors) on the 2021, 90 point.
+;Stacked Area;Line Drawing Activity;50;50;1;0;5;No;;Successful line connection.
+;Stacked Area;Stack Third Category;100;150;2;0;9;No;;Quick and accurate adjustment identification.
+;Stacked Area;2nd Point Plotting;475;500;10;1;56;No;;Much improved plotting performance compared to first set.
+;Stacked Area;2nd Line Drawing;0;50;1;2;7;No;;Two failed attempts before connecting all points.
+;Misleading;Years Missing Chart;25;50;1;1;38;No;;Misclicked FullGraph initially.
+;Misleading;Y Axis Increment Chart;50;50;1;0;18;No;;Correctly identified non-incremental scale.
+;Misleading;Comparison Chart;50;50;1;0;21;No;;Correctly identified Y-axis discrepancy.
+;Misleading;Reversed Years Chart;50;50;1;0;10;No;;Identified X-axis reversal quickly.
+P71;Base Chart;Axes Activity;375;500;9;7;287;Yes;12;Struggled with axis increments (X and Y).
+;Base Chart;Axes Activity;475;500;10;2;66;No;;"Improved accuracy; misclicked X-start and Y-end once."
+;Line Chart;Point Plotting Activity;500;500;10;3;65;No;;background misclicks at 2018, 2020, and 2021.
+;Line Chart;Line Drawing Activity;50;50;1;0;7;No;;Connected all points successfully.
+;Line Chart;Prepare Second Category;50;50;1;0;13;No;;Correctly identified no graph adjustment needed.
+;Line Chart;2nd Point Plotting;500;500;10;0;29;No;;Perfect plotting for second category.
+;Line Chart;2nd Line Drawing;50;50;1;1;27;No;;One background misclick before connecting.
+;Area Chart;Introduction Activity ;50;50;1;0;7;No;;Area filled successfully.
+;Area Chart;Introduction Activity ;50;50;1;0;6;No;;Consistent performance.
+;Area Chart;Area Comparison Activity;50;50;1;0;31;Yes;1;Completed after a return to Explanation.
+;Stacked Area;First Stacking Activity;50;150;2;2;24;No;;Misclicked FullGraph twice before finding Y-axis.
+;Stacked Area;Point Plotting Activity;325;500;10;7;104;No;;Significant trouble clicking the 2015 and 2023 points.
+;Stacked Area;Line Drawing Activity;50;50;1;0;4;No;;Points connected for Brawl Stars.
+;Stacked Area;Stack Third Category;100;150;2;0;9;No;;Fast and accurate adjustment identification.
+;Stacked Area;2nd Point Plotting;450;500;10;2;109;No;;Misclicked background at 2020 and 2021.
+;Stacked Area;2nd Line Drawing;50;50;1;0;3;No;;Points connected for PubG.
+;Misleading;Years Missing Chart ;0;50;1;2;19;No;;Repeatedly clicked FullGraph before X-axis.
+;Misleading;Y Axis Increment Chart ;50;50;1;0;8;No;;Identified non-incremental scale correctly.
+;Misleading;Comparison Chart ;50;50;1;1;13;No;;One misclick before finding Y-axis error.
+;Misleading;Reversed Years Chart ;50;50;1;0;8;No;;Found X-axis reversal immediately.
+;Misleading;Years Missing Chart ;50;50;1;0;11;No;;Improved: No errors on replay.
+;Misleading;Y Axis Increment Chart ;50;50;1;0;11;No;;Maintained accuracy.
+;Misleading;Comparison Chart ;50;50;1;0;7;No;;Improved: No errors on replay.
+;Misleading;Reversed Years Chart ;50;50;1;0;2;No;;Extremely fast identification.
+P72;Base Chart;Axes Activity;400;500;9;5;121;No;;Struggled significantly with Y-axis increments.
+;Line Chart;Point Plotting ;-400;500;10;36;187;No;;"Extremely high error rate; repeatedly clicked wrong points."
+;Line Chart;Line Drawing ;-575;50;1;25;54;No;;Attempted to connect points out of order/incomplete.
+;Line Chart;Prepare 2nd Category;50;50;1;0;11;No;;Correctly identified no adjustment needed.
+;Line Chart;2nd Point Plotting;500;500;10;2;30;No;;Massive improvement over first plotting activity.
+;Line Chart;2nd Line Drawing;-25;50;1;1;7;Yes;3;One incomplete connection before success.
+;Line Chart;Point Plotting ;475;500;10;1;25;No;;Replayed after returning to explanation.
+;Line Chart;Line Drawing ;50;50;1;0;10;No;;Perfect execution on second attempt.
+;Area Chart;Introduction Activity;50;50;1;0;8;No;;Successful area fill.
+;Area Chart;Area Comparison;25;200;1;1;13;No;;Entered incorrect Y-End initially.
+;Stacked Area;1st Stacking Activity;-25;150;2;5;42;No;;Misclicked FullGraph 4 times before Y-axis.
+;Stacked Area;Point Plotting;-325;500;10;33;115;No;;Major difficulty clicking the 2018 point.
+;Stacked Area;Line Drawing;50;50;1;0;5;No;;Successfully connected Minecraft points.
+;Stacked Area;Stack 3rd Category;100;150;2;2;33;No;;Improved recognition of graph parts.
+;Stacked Area;2nd Point Plotting;475;700;10;5;45;No;;Struggled with point 2020 (981).
+;Stacked Area;2nd Line Drawing;50;50;1;0;6;No;;Correctly connected Among Us points.
+;Stacked Area;1st Stacking;100;150;2;1;8;No;;"Replayed level; much faster recognition."
+;Stacked Area;Point Plotting ;450;500;10;1;25;No;;Massive reduction in errors (33 down to 1).
+;Stacked Area;2nd Point Plotting;150;500;10;8;39;No;;Performance dipped during the second category.
+;Misleading;Missing Years Activity;50;50;1;0;12;No;;Fast identification of X-axis gap.
+;Misleading;Y Axis Increment;50;50;1;0;20;No;;Found non-incremental scale successfully.
+;Misleading;Misleading Comparison Chart Activity;50;50;1;0;7;No;;Success
+;Misleading; Misleading Reversed Years Chart Activity;50;50;1;0;6;No;;Success
+P73;Base Chart;Axes Activity;425;500;10;4;119;No;;Struggled with Y-axis increments and labels.
+;Line Chart;Point Plotting ;-500;500;10;40;160;No;;"Severe difficulty; repeatedly clicked 2015, 30."
+;Line Chart;Line Drawing ;50;50;1;0;7;No;;Clean execution.
+;Line Chart;Prepare Second Category;N/A;N/A;2;1;105;No;;"Logic error on adjustment check; failed Y increment."
+;Line Chart;Point Plotting ;N/A;500;3;11;31;Yes;23;Abandoned attempt after multiple errors.
+;Line Chart;Point Plotting ;325;500;10;7;77;Yes;1;Final successful attempt at plotting.
+;Line Chart;Line Drawing ;50;50;1;0;4;No;;Quick completion.
+;Line Chart;Prepare Second Category ;-25;50;0;1;10;No;;Incorrectly identified adjustment need.
+;Line Chart;Second Point Plotting;500;500;10;0;27;No;;Perfect performance on the second category.
+;Line Chart;Second Line Drawing;0;50;1;0;3;No;;Zero score recorded in log.
+;Area Chart;Introduction Activity;50;50;1;0;4;No;;Fast completion.
+;Area Chart;Area Comparison;25;50;1;1;17;No;;One incorrect Y-End entry.
+;Stacked Area;First Stacking Activity;100;150;2;0;12;No;;High accuracy on graph readiness/part selection.
+;Stacked Area;Point Plotting;475;500;10;5;63;No;;Minor difficulty with points 2019 and 2020.
+;Stacked Area;Line Drawing;50;50;1;0;5;No;;Successful connection.
+;Stacked Area;Stack Third Category;100;150;2;0;11;No;;Clear understanding of 3rd layer setup.
+;Stacked Area;Second Point Plotting;650;700;14;4;49;No;;Strong performance across 14 data points.
+;Stacked Area;Second Line Drawing;50;50;1;0;4;No;;Successful connection.
+;Misleading;Years Missing Chart;50;50;1;0;11;No;;Immediate identification of X-axis gap.
+;Misleading;Y Axis Increment Chart;50;50;1;0;11;No;;Fast recognition of scale manipulation.
+;Misleading;Comparison Chart;50;50;1;1;5;No;;One misclick on FullGraph before Y-axis.
+;Misleading;Reversed Years Chart;50;50;1;0;5;No;;Quick detection of reversed chronology.
