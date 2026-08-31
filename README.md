@@ -1,7 +1,3 @@
-# WizardOfVisData
-Data from wizard of viz evaluation
-================================================================================
-SUPPLEMENTAL MATERIALS
 The Wizard of Viz: Evaluating a Playful Approach to Learn How to
 Construct Charts and Recognize Misleading Visualizations
 ================================================================================
