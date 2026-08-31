@@ -16,29 +16,27 @@ https://github.com/MagdalenaKejstova/VisGame_Constructing
 FOLDER STRUCTURE
 --------------------------------------------------------------------------------
 
-├── README.txt
-├── Mentimeter/
-│   ├── [ClassCode].pdf   — Raw Mentimeter responses per class
-│   ├── MentimeterAnalysis.html             — Full Likert-scale and free-text analysis
-│   └── MisleadingVisualizations.docx       — Charts used in the post-game
-│                                             misleading visualizations activity
-│
-└── GameLogAnalysis/
-    ├── FirstIteration/
-    │   ├── Accuracy per activity-Table 1.csv
-    │   ├── Level - Best score-Table 1.csv
-    │   ├── Level - First full attempt-Table 1.csv
-    │   ├── Level - All attempts-Table 1.csv
-    │   ├── Level - Badge distribution-Table 1.csv
-    │   ├── Level - Improving final score (-Improving score.csv
-    │   ├── Level - Gaps == Explanations ti-Table 1.csv
-    │   └── FirstIteration.ipynb            — Analysis notebook (N=31)
-    │
-    └── SecondIteration/
-        ├── ActivityFulltable.csv           — Per-activity log data (N=72)
-        ├── Level_summary.csv               — Per-level summary data (N=72)
-        └── SecondIteration.ipynb           — Analysis notebook (N=72)
-
+```
+README.md
+Mentimeter/
+├── [ClassCode].pdf              Raw Mentimeter responses per class
+├── MentimeterAnalysis.html      Full Likert-scale and free-text analysis
+└── MisleadingVisualizations.docx  Charts used in the post-game activity
+GameLogAnalysis/
+├── FirstIteration/
+│   ├── Accuracy per activity-Table 1.csv
+│   ├── Level - Best score-Table 1.csv
+│   ├── Level - First full attempt-Table 1.csv
+│   ├── Level - All attempts-Table 1.csv
+│   ├── Level - Badge distribution-Table 1.csv
+│   ├── Level - Improving final score.csv
+│   ├── Level - Gaps == Explanations-Table 1.csv
+│   └── FirstIteration.ipynb     Analysis notebook (N=31)
+└── SecondIteration/
+    ├── ActivityFulltable.csv    Per-activity log data (N=72)
+    ├── Level_summary.csv        Per-level summary data (N=72)
+    └── SecondIteration.ipynb    Analysis notebook (N=72)
+```
 --------------------------------------------------------------------------------
 DATA DESCRIPTION
 --------------------------------------------------------------------------------
