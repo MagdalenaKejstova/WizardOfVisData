@@ -41,56 +41,56 @@ GameLogAnalysis/
 DATA DESCRIPTION
 --------------------------------------------------------------------------------
 
-FIRST ITERATION (N=31, 2 schools: BORGK, BFI)
+**FIRST ITERATION (N=31, 2 schools: BORGK, BFI)**
 
-  Accuracy per activity-Table 1.csv
+  ```Accuracy per activity-Table 1.csv```
     Per-participant, per-level accuracy with activity counts and correct counts.
 
-  Level - Best score-Table 1.csv
+  ```Level - Best score-Table 1.csv```
     Best score achieved per participant per level (as percentages).
 
-  Level - First full attempt-Table 1.csv
+  ```Level - First full attempt-Table 1.csv```
     Time spent on the first complete attempt per participant per level.
 
-  Level - All attempts-Table 1.csv
+  ```Level - All attempts-Table 1.csv```
     Total time spent across all attempts per participant per level.
 
-  Level - Badge distribution-Table 1.csv
+  ```Level - Badge distribution-Table 1.csv```
     Distribution of Gold/Silver/Bronze badges per level.
 
-  Level - Improving final score (-Improving score.csv
+ ``` Level - Improving final score (-Improving score.csv```
     Binary indicator of whether each participant improved from first to best.
 
-  Level - Gaps == Explanations ti-Table 1.csv
+  ```Level - Gaps == Explanations ti-Table 1.csv```
     Time spent in explanation chapters between levels.
 
-SECOND ITERATION (N=72, 3 schools: IRN, RAM1, RAM2, BRG9)
+**SECOND ITERATION (N=72, 3 schools: IRN, RAM1, RAM2, BRG9)**
 
-  ActivityFulltable.csv
+  ```ActivityFulltable.csv```
     Detailed per-activity log: participant, level, activity name, score,
     max score, correct/error counts, time spent, returns to explanation,
     and qualitative behavior notes. Used for Table 2 (time metrics),
     Table 3 (performance metrics), and error analysis.
 
-  Level_summary.csv
+ ``` Level_summary.csv```
     Per-participant, per-level summary: time spent, error count,
     explanation time, score, best/first percentages, skip/read behavior,
     and restart flags.
 
-MENTIMETER SURVEY (N=87)
+**MENTIMETER SURVEY (N=87)**
 
-  [ClassCode].pdf
+  ```[ClassCode].pdf```
     Raw exported responses per school class, including Likert-scale
     ratings (14 questions) and free-text responses (3 questions).
     Note: The survey was administered in German. English translations
     of all questions are provided in Table 6 of the paper.
 
-  MentimeterAnalysis.html
+  ```MentimeterAnalysis.html```
     Statistical analysis of Likert-scale responses: descriptive statistics,
     Kruskal-Wallis tests, Dunn's post hoc comparisons, Mann-Whitney U
     tests, and Spearman correlations with age.
 
-  MisleadingVisualizations.docx
+ ``` MisleadingVisualizations.docx```
     Charts used in the post-game misleading visualizations group
     activity.
 
@@ -98,11 +98,11 @@ MENTIMETER SURVEY (N=87)
 ANALYSIS NOTEBOOKS
 --------------------------------------------------------------------------------
 
-FirstIteration.ipynb
+```FirstIteration.ipynb```
   Computes: mean best scores per level, error counts from
   raw activity logs 
 
-SecondIteration.ipynb
+```SecondIteration.ipynb```
   Computes: Table 2 (time-related metrics per level, replays, replayer
   times), Table 3 (first vs. best attempt scores with paired t-tests,
   Bonferroni correction, and Cohen's d), explanation time, best score
